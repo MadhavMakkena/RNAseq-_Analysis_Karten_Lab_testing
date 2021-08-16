@@ -1,18 +1,26 @@
 #setting the directory
 setwd("/Users/madhavmakkena/Downloads/RNAseq")
 
+
+
 #loading the count data (only when its already in a single file)
 count_data <- read.csv("combined_single.csv", header = TRUE, sep = ",", row.names = "ENSGene")
 head(count_data, 10)
+
+
 
 #loading the sample information
 sample_data <- read.csv('sample_conditions.csv', header = TRUE, row.names = "sample")
 sample_data
 
+
+
 #checking if the sample names in sample data match the count data
 all (rownames(sample_data) %in% colnames(count_data))
 all (rownames(sample_data) == colnames(count_data))
 #both should be TRUE
+
+
 
 #cleaning up count_data to remove genes with 0 counts in all samples
 count_data_clean <- count_data
@@ -21,10 +29,14 @@ count_data_clean <- count_data_clean[rowSums(count_data_clean) !=0, ]
 head(count_data,10)
 head(count_data_clean,10)
 
+
+
 #DESeq analysis
 library(DESeq2)
 #storing the input values from count_data_clean
 DESeq_input <- DESeqDataSetFromMatrix(countData = count_data_clean, colData = sample_data, design = ~ condition)
+
+
 
 #Keeping all the genes
 exp_100 <-estimateSizeFactors(DESeq_input)
@@ -33,7 +45,7 @@ exp_100_sort <- exp_100_sort[1:(round(length(exp_100_sort)*1))]
 exp_100 <- exp_100[rownames(counts(exp_100)) %in% names(exp_100_sort),]
 summary(exp_100_sort)
 summary(exp_100)
-
+#
 #Keeping the top 60% expressing the genes
 exp_60 <-estimateSizeFactors(DESeq_input)
 exp_60_sort <- sort(rowMeans(counts(exp_60, normalized = T)), decreasing = T)
@@ -42,35 +54,43 @@ exp_60 <- exp_60[rownames(counts(exp_60)) %in% names(exp_60_sort),]
 summary(exp_60_sort)
 summary(exp_60)
 
+
+
 #plotting expression count histograms
 hist(exp_100_sort, breaks = 1000000, col = "grey", xlim=c(0,100), ylim=c(0,100))
 hist(exp_60_sort, breaks = 1000000, col = "grey", xlim=c(0,100), ylim=c(0,100))
 
+
 #performing DESeq2 on exp_100_sort
 DESeq_run_exp_100 <-DESeq(exp_100)
 plotDispEsts(DESeq_run_exp_100)
-
+#
 #performing DESeq2 on exp_60_sort
 DESeq_run_exp_60 <-DESeq(exp_60)
 plotDispEsts(DESeq_run_exp_60)
 
+
+
 #normalising the counts exp_100
 normal_count_exp_100 <-counts(DESeq_run_exp_100, normalized=TRUE)
 normal_count_exp_100
-
+#
 #normalising the counts exp_60
 normal_count_exp_60 <-counts(DESeq_run_exp_60, normalized=TRUE)
 normal_count_exp_60
+
+
 
 #extracting the results from DESeq_run_exp_100
 result_exp100 <- results(DESeq_run_exp_100)
 result_exp100
 write.csv( as.data.frame(result_exp100), file="result_exp100.csv")
-
+#
 #extracting the results from DESeq_run_exp_60
 result_exp60 <- results(DESeq_run_exp_60)
 result_exp60
 write.csv( as.data.frame(result_exp60), file="result_exp60.csv")
+
 
 
 #installing packages for BinfTools
@@ -83,9 +103,11 @@ devtools::install_github("kevincjnixon/gpGeneSets")
 devtools::install_github("kevincjnixon/BinfTools")
 library(BinfTools)
 
+
+
 # dds is DESeq_run_exp_100 or DESeq_run_exp_60
 # res is result_exp100 or result_exp60
-
+#
 # getting HGNC Names from ENSG names for result_exp100
 sym_result_exp100 <- result_exp100
 sym_result_exp100 <- getSym(object=sym_result_exp100,
@@ -94,7 +116,7 @@ sym_result_exp100 <- getSym(object=sym_result_exp100,
                target="HGNC",
                addCol=F)
 head(sym_result_exp100)
-
+#
 # getting HGNC Names from ENSG names for result_exp60
 sym_result_exp60 <- result_exp60
 sym_result_exp60 <- getSym(object=sym_result_exp60,
@@ -104,14 +126,23 @@ sym_result_exp60 <- getSym(object=sym_result_exp60,
                             addCol=F)
 head(sym_result_exp60)
 
+
+
+#specific gene sets onloading
+Gene_set_chol_biosyn <- read.csv('Gene_set_cholesterol_biosynthesis.csv', header = FALSE)$V1
+Gene_set_chol_homeo <- read.csv('Gene_set_cholesterol_homeostasis.csv', header = FALSE)$V1
+Gene_set_KEGG_endocytosis <- read.csv('Gene_set_KEGG_endocytosis.csv', header = FALSE)$V1
 #
+#gene sets exp100
+exp100_Gene_set_chol_biosyn <- subset(sym_result_exp100, rownames(sym_result_exp100) %in% Gene_set_chol_biosyn)
+exp100_Gene_set_chol_homeo <- subset(sym_result_exp100, rownames(sym_result_exp100) %in% Gene_set_chol_homeo)
+exp100_Gene_set_KEGG_endocytosis <- subset(sym_result_exp100, rownames(sym_result_exp100) %in% Gene_set_KEGG_endocytosis)
 #
-#
-#
-#
-#
-chol_biosyn_genes<-c("ACAT2", "ARV1", "CYP51A1", "DHCR24", "DHCR7", "EBP", "FDFT1", "FDPS", "GGPS1", "HMGCR", "HMGCS1", "HSD17B7", "IDI1", "IDI2", "LBR", "LSS", "MSMO1", "MVD", "MVK", "NSDHL", "PLPP6", "PMVK", "SC5D", "SQLE", "TM7SF2")
-chol_biosyn_genes_dataframe <- subset(sym_result_exp100, rownames(sym_result_exp100) %in% chol_biosyn_genes)
+#gene sets exp100
+exp60_Gene_set_chol_biosyn <- subset(sym_result_exp60, rownames(sym_result_exp60) %in% Gene_set_chol_biosyn)
+exp60_Gene_set_chol_homeo <- subset(sym_result_exp60, rownames(sym_result_exp60) %in% Gene_set_chol_homeo)
+exp60_Gene_set_KEGG_endocytosis <- subset(sym_result_exp60, rownames(sym_result_exp60) %in% Gene_set_KEGG_endocytosis)
+
 
 
 
