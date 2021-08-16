@@ -78,9 +78,10 @@ BiocManager::install("SAGx")
 BiocManager::install("GSVA")
 BiocManager::install("fgsea")
 BiocManager::install("gage")
+BiocManager::install("qusage")
 devtools::install_github("kevincjnixon/gpGeneSets")
 devtools::install_github("kevincjnixon/BinfTools")
-library(gage)
+library(BinfTools)
 
 # dds is DESeq_run_exp_100 or DESeq_run_exp_60
 # res is result_exp100 or result_exp60
@@ -103,11 +104,14 @@ sym_result_exp60 <- getSym(object=sym_result_exp60,
                             addCol=F)
 head(sym_result_exp60)
 
-
-
-
-
-
+#
+#
+#
+#
+#
+#
+chol_biosyn_genes<-c("ACAT2", "ARV1", "CYP51A1", "DHCR24", "DHCR7", "EBP", "FDFT1", "FDPS", "GGPS1", "HMGCR", "HMGCS1", "HSD17B7", "IDI1", "IDI2", "LBR", "LSS", "MSMO1", "MVD", "MVK", "NSDHL", "PLPP6", "PMVK", "SC5D", "SQLE", "TM7SF2")
+chol_biosyn_genes_dataframe <- subset(sym_result_exp100, rownames(sym_result_exp100) %in% chol_biosyn_genes)
 
 
 
