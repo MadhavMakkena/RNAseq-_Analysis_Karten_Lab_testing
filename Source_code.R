@@ -55,20 +55,53 @@ DESeq_run_exp_60 <-DESeq(exp_60)
 plotDispEsts(DESeq_run_exp_60)
 
 #normalising the counts exp_100
-# normal_count_exp_100 <-counts(DESeq_run_exp_100, normalized=TRUE)
-# normal_count_exp_100
+normal_count_exp_100 <-counts(DESeq_run_exp_100, normalized=TRUE)
+normal_count_exp_100
 
 #normalising the counts exp_60
-# normal_count_exp_60 <-counts(DESeq_run_exp_60, normalized=TRUE)
-# normal_count_exp_60
+normal_count_exp_60 <-counts(DESeq_run_exp_60, normalized=TRUE)
+normal_count_exp_60
 
 #extracting the results from DESeq_run_exp_100
 result_exp100 <- results(DESeq_run_exp_100)
 result_exp100
+write.csv( as.data.frame(result_exp100), file="result_exp100.csv")
 
 #extracting the results from DESeq_run_exp_60
 result_exp60 <- results(DESeq_run_exp_60)
 result_exp60
+write.csv( as.data.frame(result_exp60), file="result_exp60.csv")
+
+
+#installing packages for BinfTools
+BiocManager::install("SAGx")
+BiocManager::install("GSVA")
+BiocManager::install("fgsea")
+BiocManager::install("gage")
+devtools::install_github("kevincjnixon/gpGeneSets")
+devtools::install_github("kevincjnixon/BinfTools")
+library(gage)
+
+# dds is DESeq_run_exp_100 or DESeq_run_exp_60
+# res is result_exp100 or result_exp60
+
+# getting HGNC Names from ENSG names for result_exp100
+sym_result_exp100 <- result_exp100
+sym_result_exp100 <- getSym(object=sym_result_exp100,
+               obType="res",
+               species="hsapiens",
+               target="HGNC",
+               addCol=F)
+head(sym_result_exp100)
+
+# getting HGNC Names from ENSG names for result_exp60
+sym_result_exp60 <- result_exp60
+sym_result_exp60 <- getSym(object=sym_result_exp60,
+                            obType="res",
+                            species="hsapiens",
+                            target="HGNC",
+                            addCol=F)
+head(sym_result_exp60)
 
 
 
@@ -76,26 +109,5 @@ result_exp60
 
 
 
-
-
-
-
-
-
-
-
-#adding gene names
-result$ensembl <- sapply( strsplit( rownames(result), split="\\+" ), "[", 1 )
-library( "biomaRt" )
-ensembl = useMart( "ensembl", dataset = "hsapiens_gene_ensembl" )
-genemap <- getBM( attributes = c("ensembl_gene_id", "hgnc_symbol"),
-                  filters = "ensembl_gene_id",
-                  values = result$ensembl,
-                  mart = ensembl )
-idx <- match( result$ensembl, genemap$ensembl_gene_id )
-result$entrez <- genemap$entrezgene[ idx ]
-result$hgnc_symbol <- genemap$hgnc_symbol[ idx ]
-head(result,4)
-write.csv( as.data.frame(result), file="results_all_dds_expressed_GeneName.csv")
 
 
