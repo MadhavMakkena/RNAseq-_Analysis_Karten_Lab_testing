@@ -36,6 +36,7 @@ DESeq_input <- DESeqDataSetFromMatrix(countData = count_data, colData = sample_d
 
 
 
+
 #Keeping all the genes
 exp_100 <-estimateSizeFactors(DESeq_input)
 exp_100_sort <- sort(rowMeans(counts(exp_100, normalized = T)), decreasing = T)
@@ -85,7 +86,7 @@ counts_60
 
 
 #extracting the results from DESeq_100
-result_100 <- results(DESeq_100)
+result_100 <- as.data.frame(results(DESeq_100))
 result_100
 #
 #extracting the results from DESeq_60

@@ -1,0 +1,10 @@
+cholesterol metabolic process	cholesterol metabolic process	dare	Mvd	CG10268	Hsl	CG8112	CG33671	Npc1b
+cholesterol transport	cholesterol transport	ScpX	Npc1a	Npc2a	CG17597	Npc2d	Npc2c	Npc2b	Npc2f	Npc2g	Npc2h	Npc1b
+cholesterol storage	cholesterol storage
+regulation of cholesterol storage	regulation of cholesterol storage
+negative regulation of cholesterol storage	negative regulation of cholesterol storage
+regulation of cholesterol transport	regulation of cholesterol transport	ScpX	Npc1a	CG17597
+cholesterol efflux	cholesterol efflux
+positive regulation of cholesterol transport	positive regulation of cholesterol transport	ScpX	CG17597
+cholesterol homeostasis	cholesterol homeostasis	EcR	gig	Akt1	Hr96	Tsc1	GstE14	CG14184	mag	CG8112	sit	Rheb	SNF4Agamma	InR
+regulation of cholesterol efflux	regulation of cholesterol efflux
