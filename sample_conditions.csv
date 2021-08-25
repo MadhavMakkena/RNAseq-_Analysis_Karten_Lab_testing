@@ -1,5 +1,5 @@
 sample,condition
-Control_1,Fibroblast
-Control_2,Fibroblast
-SHSY5Y_1,SH-SY5Y
-SHSY5Y_2,SH-SY5Y
+C_1,Fibroblast
+C_2,Fibroblast
+S_1,SH-SY5Y
+S_2,SH-SY5Y
