@@ -20,7 +20,7 @@ raw_counts<- raw_counts[rowSums(raw_counts) != 0, ]
 #head(raw_counts,10)
 
 #DESeq analysis
-#storing the input values from raw_counts_clean
+#storing the input values from raw_counts
 library(DESeq2)
 DESeq <- DESeqDataSetFromMatrix(countData = raw_counts, colData = sample_cond, design = ~ condition)
 
@@ -39,7 +39,7 @@ summary(DESeq_hist)
 #plotting expression count histograms
 hist(DESeq_hist, breaks = 1000000, col = "grey", xlim=c(0,100), ylim=c(0,100))
 
-#performing DESeq2 on exp_100_sort
+#performing DESeq2 on DESeq
 DESeq <-DESeq(DESeq)
 plotDispEsts(DESeq)
 
@@ -61,16 +61,16 @@ cond<-as.character(DESeq$condition)
 # BiocManager::install("gage")
 # BiocManager::install("qusage")
 # devtools::install_github("kevincjnixon/gpGeneSets")
-devtools::install_github("kevincjnixon/BinfTools", force = TRUE)
-devtools::update_packages("BinfTools")
-library("BinfTools")
+# devtools::install_github("kevincjnixon/BinfTools", force = TRUE)
+# devtools::update_packages("BinfTools")
+# library("BinfTools")
 lapply(c("SAGx", "GSVA", "fgsea", "gage", "qusage", "gpGeneSets", "BinfTools"), require, character.only = TRUE)
 
 # dds is DESeq
 # res is result
 # counts is counts
 
-# getting HGNC Names from ENSG names for result_exp100
+# getting HGNC Names from ENSG names for result
 result_HGCN <- result
 result_HGCN <- getSym(object=result_HGCN,
                obType="res",
@@ -78,8 +78,9 @@ result_HGCN <- getSym(object=result_HGCN,
                target="HGNC",
                addCol=F)
 head(result_HGCN)
+write.csv(result_HGCN,"result_HGCN.csv", row.names = TRUE)
 
-# getting HGNC Names from ENSG names for counts_100
+# getting HGNC Names from ENSG names for count
 count_HGCN <- count
 count_HGCN <- getSym(object=count_HGCN,
                         obType="counts",
@@ -87,6 +88,7 @@ count_HGCN <- getSym(object=count_HGCN,
                         target="HGNC",
                         addCol=F)
 head(count_HGCN)
+write.csv(count_HGCN,"count_HGCN.csv", row.names = TRUE)
 
 
 
@@ -96,17 +98,171 @@ head(count_HGCN)
 
 
 
+#creating a GO directory
+dir.create("GO")
 
 
+# volcano plots and MA plots use result_HGCN
+# barGene(), count_plot(), and gsva_plot() use count_HGCN
+#creating a volcano plot
+DEG<-volcanoPlot(res=result_HGCN, #Results object
+                 title="Fibroblast vs SH-SY5",
+                 p=0.05, #adjusted p-value threshold for DEGs
+                 pval=NULL, #unadjusted p-value threshold for DEGs (in case you don't want to use adjusted)
+                 FC=log2(1.5), #log2FoldChange threshold for DEGs (can be 0)
+                 lab=NULL, #list of genes to label (NULL to not label any)
+                 col=NULL, #list of genes to colour (NULL to not colour any)
+                 fclim=NULL, #x-axis (log2FoldChange) limits, genes passing this limit will be represented as triangles on the edge of the plot - good if you have some extreme outliers
+                 showNum=T, #Show the numbers of genes on the plot?
+                 returnDEG=T, #Return list of DEGs (Down, Up) - this is good for running GO later on
+                 expScale=F, #Scale point size to mean expression?
+                 upcol=NULL, #Colour value for upregulated genes, NULL will be red
+                 dncol=NULL) #Colour value for downregulated genes, NULL will be blue)
+
+GO_res<-GO_GEM(geneList=DEG,
+               species="hsapiens",
+               bg=rownames(result_HGCN), #A character vector of genes indicating the background for the GO analysis. Leave NULL to use all genes (if you don't have one)
+               source="GO:BP", #A character indicating the source - see documentation for all of them
+               corr="fdr", #How to correct the p-values
+               iea=F, #Remove genes in terms 'inferred by electronic analysis' ?
+               prefix="GO/", #Character for output prefix. If named list is provided as geneList, names of the list will be added to the prefix
+               ts=c(10,500), #numeric of length 2 indicating minimum/maximum term size for results plots
+               pdf=T, #print figures to pdf?
+               fig=T, #Show figures in plots in RStudio?
+               figCols=c("blue","orange"), #colours for enrichment/significance in plots
+               returnGost=T, #Return gprofiler2 gost object
+               writeRes=T, #Write results to ".GO.txt" file
+               writeGem=T, #Write gem file?
+               writeGene=F, #Write genes in query to file?
+               returnRes=T) #Return the results table (only one of returnRes or returnGost can be T, not both)
+
+GO_gost<-GO_GEM(geneList=DEG,
+                species="hsapiens",
+                bg=rownames(result_HGCN),
+                source="GO:BP",
+                prefix="GO/",
+                pdf=F,
+                fig=F,
+                returnGost=T,
+                writeRes=F)
+
+BinfTools:::combGO_plot(GOresList=GO_res,
+                        title="Biological process - significant",
+                        ts=c(10,500),
+                        sig=T,
+                        numTerm=10,
+                        upcols=c("lightpink","red"),
+                        downcols=c("lightblue","blue"))
+
+BinfTools:::combGO_plot(GOresList=GO_res,
+                        title="Biological process - enriched",
+                        ts=c(10,500),
+                        sig=F,
+                        numTerm=10,
+                        upcols=c("lightpink","red"),
+                        downcols=c("lightblue","blue"))
+
+rnk<-GenerateGSEA(res=result_HGCN, #Results object
+                  filename="GSEA.rnk", #Output rnk file name for GSEA preranked outside of R
+                  bystat=T, #Rank genes by stats? will use Wald statistic or if not nere, -log10(p-value) with the direction from the log2FoldChange
+                  byFC=F, #Rank genes by log2FoldChange? I like to use this with the shrunken log fold change from DESEq2
+                  retRNK=T) #Return the RNK object? yes, to run GSEA in R
 
 
+library(gpGeneSets)
+gsea_res<-GSEA(rnk=rnk, #Rnk object
+               gmt=gp_dm, #either .gmt filename or a loaded gene set
+               pval=1, #adjusted p-value threshold for terms to return, set to 1 to return all terms and filter later
+               ts=c(10,600), #min/max term sizes to filter terms BEFORE analysis
+               nperm=10000, #number of permuations for p-value generation
+               parseBader=F) #Set to TRUE if using Gary's genesets - it will parse the term names so it looks neater. I'm not using gary's genesets here, so we will set to FALSE
+
+rows<-c(1, nrow(gsea_res))
+enPlot(gseaRes=gsea_res[rows,], #GSEA results table subset into the rows of interest to make a plot
+       rnk=rnk, #Original rnk object used to make gsea_res
+       gmt=gp_dm, #Original gmt object/filename used to make gsea_res
+       title=NULL) #character vector of length (nrow(gseaRes)) for custom titles, or leave NULL for automatic titles - works better for Gary's genesets
+
+cholesterol<-c(customGMT(gost=GO_gost$Down, #gost object from GO_GEM and returnGost=T
+                         key="cholesterol", #keyword to pull gene sets - this is a grep, so anything with this key will be pulled - the resulting geneset may require some manual curation so check the names
+                         gmt=gp_dm), #The gpGeneSets object containing the complete gene sets 'gp_hs' for human, 'gp_mm' for mouse and 'gp_dm' for drosophila
+               customGMT(gost=GO_gost$Up,
+                         key="cholesterol",
+                         gmt=gp_dm))
 
 
+write.gmt(geneSet=cholesterol,
+          filename="cholesterol.gmt")
 
 
+forVenn<-list(DE_Up=DEG$Up,
+              DE_Down=DEG$Down,
+              cholesterol=unique(unlist(cholesterol)))
+
+plotVenn(x=forVenn, #name list for plotting Venn diagram
+         title="cholesterol related genes",
+         cols="Dark2", #Colour scheme for plot
+         lty="blank", #outlines for circles
+         scale=F, #Scale to list sizes?
+         retVals=F) #Return list of values in overlaps?
+
+count_HGCN_matrix <- data.matrix(count_HGCN)
+
+gsva_plot(counts=as.matrix(count_HGCN_matrix), #counts object (as matrix), make sure rownames are the same nomenclature as the gene symbols in geneset
+          geneset=forVenn,
+          method="gsva", #Method for gsva plot - see documentation for options
+          condition=cond,
+          con="Fibroblast", #Indicate the control condition
+          title="cholesterol ssGSEA", 
+          compare=NULL, #for pairwise t-tests, leave NULL to do all possible comparisons, or provide a list of vectors, length 2 indicating the conditions to compare
+          col="Dark2", #Colour scheme, can be RColourBrewer palette name, or vector of rgb(), hexadecimal, or colour names
+          style="violin")
+
+count_plot(counts=count_HGCN_matrix,
+           scaling="none", #Can be "zscore" to emphasize differences, or 'log10', or "none"
+           genes=unique(unlist(forVenn)), #Character vector of gene names - need to unlist the geneset for this
+           condition=cond,
+           con="Fibroblast",
+           title="Cholesterol Genes Expression",
+           compare=NULL,
+           col="Dark2",
+           method="perMean", #What method to plot? "mean", "median", "perMean", "ind", "geoMean"
+           pair=F, #Paired t-tests?
+           pc=1, #pseudocount if scaling="log10"
+           yax="Percent Mean Expression", #y-axis label if default isn't descriptive enough
+           showStat=T, #Show statistics on plot?
+           style="box") #Default is violin
 
 
+htree<-zheat(genes=unique(unlist(forVenn)), #Character vector of genes to plot in heatmap, NULL will plot all genes
+             counts=count_HGCN_matrix,
+             conditions=cond,
+             con="Fibroblast",
+             title="cholesterol genes",
+             labgenes="",#Character vecotr of gene names to label in heatmap, NULL labels all, "" will label none
+             zscore=T, #Plot row-zscore? if FALSE, probably want to log transform counts
+             rclus=T, #TRUE=hierarchical clustering, FALSE=order in decreasing expression in control condition, can also give it a dataframe with rownames=gene names and the first column with an identifier to cluster genes
+             hmcol=NULL, #colorRampPalette of length 100 for custom heatmap colours (NULL=default colours)
+             retClus=T) #return clustered objects if rclus=T - will be used to pull clustered genes later
 
+annodf<-BinfTools:::heatClus(out=htree,
+                             level=3)
+head(annodf)
+
+zheat(genes=unique(unlist(forVenn)),
+      counts=count_HGCN_matrix,
+      conditions=cond,
+      con="Fibroblast",
+      title="cholesterol - cut tree clusters",
+      labgenes=NULL,
+      zscore=T,
+      rclus=annodf)
+
+app<-exploreData(res=result_HGCN, #Results object, or named list of results objects
+                 counts=count_HGCN_matrix, #Normalized counts or name list of normalized counts - must be same names as res
+                 cond=cond)
+
+app
 
 
 
