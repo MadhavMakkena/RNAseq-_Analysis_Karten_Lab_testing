@@ -2,27 +2,27 @@
 setwd("/Users/madhavmakkena/Downloads/RNAseq")
 
 #loading the count data (only when its already in a single file)
-count_data <- read.csv("combined_single.csv", header = TRUE, sep = ",", row.names = "ENSGene")
-#head(count_data, 10)
+raw_counts <- read.csv("combined_single.csv", header = TRUE, sep = ",", row.names = "ENSGene")
+#head(raw_counts, 10)
 
 #loading the sample information
-sample_data <- read.csv('sample_conditions.csv', header = TRUE, row.names = "sample")
-#sample_data
+sample_cond <- read.csv('sample_conditions.csv', header = TRUE, row.names = "sample")
+#sample_cond
 
 #checking if the sample names in sample data match the count data
-all (rownames(sample_data) %in% colnames(count_data))
-all (rownames(sample_data) == colnames(count_data))
+all (rownames(sample_cond) %in% colnames(raw_counts))
+all (rownames(sample_cond) == colnames(raw_counts))
 #both should be TRUE
 
-#cleaning up count_data to remove genes with 0 counts in all samples
-count_data<- count_data[rowSums(count_data) != 0, ]
+#cleaning up raw_counts to remove genes with 0 counts in all samples
+raw_counts<- raw_counts[rowSums(raw_counts) != 0, ]
 #viewing the first 10 records to check
-#head(count_data,10)
+#head(raw_counts,10)
 
 #DESeq analysis
-#storing the input values from count_data_clean
+#storing the input values from raw_counts_clean
 library(DESeq2)
-DESeq <- DESeqDataSetFromMatrix(countData = count_data, colData = sample_data, design = ~ condition)
+DESeq <- DESeqDataSetFromMatrix(countData = raw_counts, colData = sample_cond, design = ~ condition)
 
 #Excluding rows with less than 20 combined total reads or 10 mean total reads
 keep <- rowSums(counts(DESeq)) >= 20
@@ -61,7 +61,9 @@ cond<-as.character(DESeq$condition)
 # BiocManager::install("gage")
 # BiocManager::install("qusage")
 # devtools::install_github("kevincjnixon/gpGeneSets")
-# devtools::install_github("kevincjnixon/BinfTools")
+devtools::install_github("kevincjnixon/BinfTools", force = TRUE)
+devtools::update_packages("BinfTools")
+library("BinfTools")
 lapply(c("SAGx", "GSVA", "fgsea", "gage", "qusage", "gpGeneSets", "BinfTools"), require, character.only = TRUE)
 
 # dds is DESeq
@@ -78,13 +80,28 @@ result_HGCN <- getSym(object=result_HGCN,
 head(result_HGCN)
 
 # getting HGNC Names from ENSG names for counts_100
-counts_HGCN <- counts
-counts_HGCN <- getSym(object=counts_HGCN,
+count_HGCN <- count
+count_HGCN <- getSym(object=count_HGCN,
                         obType="counts",
                         species="hsapiens",
                         target="HGNC",
                         addCol=F)
-head(counts_HGCN)
+head(count_HGCN)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
