@@ -136,21 +136,31 @@ result_HGNC_cholesterol <- read.csv("result_HGNC_cholesterol.csv", row.names = 1
 
 #
 par(mfrow=c(2,3))
-plotCounts(DESeq, gene="NPC1", intgroup="condition", trans=c("log10"))
-plotCounts(DESeq, gene="NPC2", intgroup="condition", transform=F)
-plotCounts(DESeq, gene="ABCA1", intgroup="condition", transform=F)
-plotCounts(DESeq, gene="STARD3", intgroup="condition", transform=F)
-plotCounts(DESeq, gene="STARD4", intgroup="condition", transform=F)
-plotCounts(DESeq, gene="ACTB", intgroup="condition", transform=F)
-
-install.packages("remotes")
-remotes::install_github("acidgenomics/acidplots")
+plotCounts(DESeq, gene="PSMB2", intgroup="condition", transform=F, ylim=c(50, 4000))
+plotCounts(DESeq, gene="NPC1", intgroup="condition", transform=F, ylim=c(50, 4000))
+plotCounts(DESeq, gene="NPC2", intgroup="condition", transform=F, ylim=c(50, 4000))
+plotCounts(DESeq, gene="ABCA1", intgroup="condition", transform=F, ylim=c(50, 4000))
+plotCounts(DESeq, gene="STARD3", intgroup="condition", transform=F, ylim=c(50, 4000))
+plotCounts(DESeq, gene="STARD4", intgroup="condition", transform=F, ylim=c(50, 4000))
 
 
-dds <- DESeq
-res <- result
-res <- res[order(res$padj),]
-head(res)
+par(mfrow=c(1,1))
+testlist <- volcanoPlot(res=result_HGNC_cholesterol, #Results object
+                 title="Fibroblast vs SH_SY5Y",
+                 p=0.05, #adjusted p-value threshold for DEGs
+                 FC=log2(1.5), #log2FoldChange threshold for DEGs (can be 0)
+                 lab=a, #list of genes to label (NULL to not label any)
+                 col=a, #list of genes to colour (NULL to not colour any)
+                 fclim=NULL, #x-axis (log2FoldChange) limits, genes passing this limit will be represented as triangles on the edge of the plot - good if you have some extreme outliers
+                 showNum=F, #Show the numbers of genes on the plot?
+                 returnDEG=T, #Return list of DEGs (Down, Up) - this is good for running GO later on
+                 expScale=F, #Scale point size to mean expression?
+                 upcol="forestgreen", #Colour value for upregulated genes, NULL will be red
+                 dncol="firebrick") #Colour value for downregulated genes, NULL will be blue)
 
 
+testlist_up <- c(list(testlist_up=testlist$Up))
+testlist_down <- c(list(testlist_down=testlist$Down))
 
+write.csv(testlist_up, "testlist_up.csv", row.names = TRUE)
+write.csv(testlist_down, "testlist_down.csv", row.names = FALSE)
