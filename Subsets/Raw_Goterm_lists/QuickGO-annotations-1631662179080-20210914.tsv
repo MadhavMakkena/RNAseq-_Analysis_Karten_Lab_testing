@@ -1,0 +1,9 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	A0A024R1X5	BECN1	involved_in	GO:1905672	negative regulation of lysosome organization	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q91XJ1|ensembl:ENSRNOP00000071966	9606	Ensembl		P
+UniProtKB	A0A024R9Z1	TMEM106B	involved_in	GO:1905671	regulation of lysosome organization	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q80X71|ensembl:ENSMUSP00000031556	9606	Ensembl		P
+UniProtKB	P28799	GRN	involved_in	GO:1905673	positive regulation of lysosome organization	ECO:0000314	IDA	PMID:28073925		9606	UniProt		P
+UniProtKB	Q14108	SCARB2	involved_in	GO:1905671	regulation of lysosome organization	ECO:0000304	TAS	PMID:12356916		9606	ParkinsonsUK-UCL		P
+UniProtKB	Q14457	BECN1	involved_in	GO:1905672	negative regulation of lysosome organization	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q91XJ1|ensembl:ENSRNOP00000071966	9606	Ensembl		P
+UniProtKB	Q86VI4	LAPTM4B	involved_in	GO:1905671	regulation of lysosome organization	ECO:0000315	IMP	PMID:26280656		9606	UniProt		P
+UniProtKB	Q9NSU2	TREX1	involved_in	GO:1905671	regulation of lysosome organization	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q91XB0|ensembl:ENSMUSP00000050971	9606	Ensembl		P
+UniProtKB	Q9NUM4	TMEM106B	involved_in	GO:1905671	regulation of lysosome organization	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q80X71|ensembl:ENSMUSP00000031556	9606	Ensembl		P

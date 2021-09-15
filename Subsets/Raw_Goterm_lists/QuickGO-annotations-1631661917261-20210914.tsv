@@ -1,0 +1,200 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	A0A024R9Z1	TMEM106B	involved_in	GO:0007041	lysosomal transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q80X71|ensembl:ENSMUSP00000031556	9606	Ensembl		P
+UniProtKB	A0A024RC06	MTM1	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030561	9606	InterPro		P
+UniProtKB	A0A024RDG6	SCARB2	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35114|ensembl:ENSMUSP00000031377	9606	Ensembl		P
+UniProtKB	A0A0S2Z5J4	AP3B1	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z1T1|ensembl:ENSMUSP00000022196	9606	Ensembl		P
+UniProtKB	A0A7I2V381	IGF2R	involved_in	GO:0007041	lysosomal transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000479	9606	InterPro		P
+UniProtKB	A0A7I2YQS7	IGF2R	involved_in	GO:0007041	lysosomal transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000479	9606	InterPro		P
+UniProtKB	A2RUS2	DENND3	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:A2RT67	9606	UniProt		P
+UniProtKB	A8K6P5	A8K6P5	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030561	9606	InterPro		P
+UniProtKB	A8MW95	BECN2	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:23954414		9606	UniProt		P
+UniProtKB	A8MW95	BECN2	acts_upstream_of_or_within	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:23954414		9606	MGI		P
+UniProtKB	A8MW95	BECN2	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P0DM65|ensembl:ENSMUSP00000143887	9606	Ensembl		P
+UniProtKB	B2R6S2	B2R6S2	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000296	9606	InterPro		P
+UniProtKB	B4DUY7	B4DUY7	involved_in	GO:0007041	lysosomal transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000479	9606	InterPro		P
+UniProtKB	B7Z499	B7Z499	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030561	9606	InterPro		P
+UniProtKB	B7Z8W1	B7Z8W1	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030561	9606	InterPro		P
+UniProtKB	C4AMC7	WASH3P	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000315	IMP	PMID:20175130		9606	UniProt		P
+UniProtKB	C9J2A2	MTM1	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030561	9606	InterPro		P
+UniProtKB	E9PF32	DENND3	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A2RT67|ensembl:ENSMUSP00000046774	9606	Ensembl		P
+UniProtKB	F5GX30	M6PR	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000296	9606	InterPro		P
+UniProtKB	F5GXE0	M6PR	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000296	9606	InterPro		P
+UniProtKB	F5GXU0	M6PR	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000296	9606	InterPro		P
+UniProtKB	F5H883	M6PR	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000296	9606	InterPro		P
+UniProtKB	H0YF90	M6PR	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000296	9606	InterPro		P
+UniProtKB	H0YGE9	M6PR	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000296	9606	InterPro		P
+UniProtKB	H0YGT2	M6PR	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000296	9606	InterPro		P
+UniProtKB	O00189	AP4M1	involved_in	GO:0090160	Golgi to lysosome transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000242612|UniProtKB:O00189	9606	GO_Central		P
+UniProtKB	O00189	AP4M1	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000314	IDA	PMID:11139587		9606	UniProt		P
+UniProtKB	O00189	AP4M1	involved_in	GO:0090160	Golgi to lysosome transport	ECO:0000314	IDA	PMID:11139587		9606	UniProt		P
+UniProtKB	O00203	AP3B1	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z1T1|ensembl:ENSMUSP00000022196	9606	Ensembl		P
+UniProtKB	O00499	BIN1	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:27179792		9606	ARUK-UCL	transports_or_maintains_localization_of(UniProtKB:P56817),has_start_location(GO:0005769)	P
+UniProtKB	O14617	AP3D1	involved_in	GO:0098943	neurotransmitter receptor transport, postsynaptic endosome to lysosome	ECO:0000318	IBA	PMID:21873635	MGI:MGI:107734|PANTHER:PTN000513028	9606	GO_Central		P
+UniProtKB	O14617	AP3D1	involved_in	GO:0098943	neurotransmitter receptor transport, postsynaptic endosome to lysosome	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O54774|ensembl:ENSMUSP00000020420	9606	Ensembl		P
+UniProtKB	O14964	HGS	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000315	IMP	PMID:18767904		9606	UniProt		P
+UniProtKB	O14976	GAK	involved_in	GO:0090160	Golgi to lysosome transport	ECO:0000315	IMP	PMID:16155256		9606	ParkinsonsUK-UCL		P
+UniProtKB	O15118	NPC1	involved_in	GO:0007041	lysosomal transport	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q7TMD4	9606	UniProt		P
+UniProtKB	O43747	AP1G1	involved_in	GO:0090160	Golgi to lysosome transport	ECO:0000315	IMP	PMID:23632890		9606	UniProt	has_input(UniProtKB:P14222),occurs_in(GO:0044194)	P
+UniProtKB	O60260	PRKN	involved_in	GO:0099074	mitochondrion to lysosome transport	ECO:0000314	IDA	PMID:24446486		9606	ParkinsonsUK-UCL	part_of(GO:1900407)	P
+UniProtKB	O60291	MGRN1	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002744055|UniProtKB:O60291	9606	GO_Central		P
+UniProtKB	O60291	MGRN1	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:17229889		9606	UniProt		P
+UniProtKB	O60359	CACNG3	involved_in	GO:0098943	neurotransmitter receptor transport, postsynaptic endosome to lysosome	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1316660|PANTHER:PTN000251098	9606	GO_Central		P
+UniProtKB	O75351	VPS4B	involved_in	GO:0032510	endosome to lysosome transport via multivesicular body sorting pathway	ECO:0000315	IMP	PMID:15024011		9606	UniProt		P
+UniProtKB	O95295	SNAPIN	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001582645|UniProtKB:O95295	9606	GO_Central		P
+UniProtKB	O95295	SNAPIN	acts_upstream_of_or_within	GO:0008333	endosome to lysosome transport	ECO:0000316	IGI	PMID:22797916	UniProtKB:Q6ZNE5	9606	MGI		P
+UniProtKB	O95295	SNAPIN	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z266|ensembl:ENSMUSP00000122090	9606	Ensembl		P
+UniProtKB	P07550	ADRB2	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000304	TAS	PMID:9507004		9606	PINC		P
+UniProtKB	P07602	PSAP	involved_in	GO:0007041	lysosomal transport	ECO:0000314	IDA	PMID:26370502		9606	UniProt		P
+UniProtKB	P07602	PSAP	involved_in	GO:0007041	lysosomal transport	ECO:0000315	IMP	PMID:28835281		9606	UniProt		P
+UniProtKB	P07602	PSAP	involved_in	GO:0007041	lysosomal transport	ECO:0000315	IMP	PMID:28541286		9606	UniProt		P
+UniProtKB	P0DMV8	HSPA1A	involved_in	GO:0007041	lysosomal transport	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q61696	9606	UniProt		P
+UniProtKB	P10909	CLU	involved_in	GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	ECO:0000314	IDA	PMID:9228033		9606	ARUK-UCL	has_input(UniProtKB:P05067:PRO_0000000093)	P
+UniProtKB	P11142	HSPA8	involved_in	GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	ECO:0000304	TAS	PMID:2799391		9606	ParkinsonsUK-UCL		P
+UniProtKB	P11142	HSPA8	involved_in	GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	ECO:0000315	IMP	PMID:26212789		9606	ParkinsonsUK-UCL	has_input(UniProtKB:Q96PG8)	P
+UniProtKB	P11142	HSPA8	involved_in	GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002321717|UniProtKB:P11142	9606	GO_Central		P
+UniProtKB	P11279	LAMP1	involved_in	GO:0090160	Golgi to lysosome transport	ECO:0000315	IMP	PMID:23632890		9606	UniProt	has_input(UniProtKB:P14222),occurs_in(GO:0044194)	P
+UniProtKB	P11717	IGF2R	involved_in	GO:0007041	lysosomal transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000479	9606	InterPro		P
+UniProtKB	P13473	LAMP2	involved_in	GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	ECO:0000318	IBA	PMID:21873635	MGI:MGI:96748|PANTHER:PTN002608933|UniProtKB:P13473	9606	GO_Central		P
+UniProtKB	P13473	LAMP2	involved_in	GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P17047	9606	UniProt		P
+UniProtKB	P13473	LAMP2	involved_in	GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	ECO:0000315	IMP	PMID:27628032		9606	UniProt		P
+UniProtKB	P13473	LAMP2	involved_in	GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17047|ensembl:ENSMUSP00000074448	9606	Ensembl		P
+UniProtKB	P15848	ARSB	involved_in	GO:0007041	lysosomal transport	ECO:0000304	TAS	PMID:2303452		9606	PINC		P
+UniProtKB	P20645	M6PR	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001030778|ZFIN:ZDB-GENE-040426-2285	9606	GO_Central		P
+UniProtKB	P20645	M6PR	involved_in	GO:0007041	lysosomal transport	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P24668	9606	UniProt		P
+UniProtKB	P20645	M6PR	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000296	9606	InterPro		P
+UniProtKB	P20645	M6PR	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000304	TAS	PMID:10799489		9606	PINC		P
+UniProtKB	P20645	M6PR	involved_in	GO:0007041	lysosomal transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P24668|ensembl:ENSMUSP00000108229	9606	Ensembl		P
+UniProtKB	P28799	GRN	involved_in	GO:0007041	lysosomal transport	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P28798	9606	UniProt		P
+UniProtKB	P28799	GRN	involved_in	GO:0007041	lysosomal transport	ECO:0000315	IMP	PMID:28541286		9606	UniProt		P
+UniProtKB	P46934	NEDD4	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000353	IPI	PMID:17116753	UniProtKB:Q9NZ52	9606	ARUK-UCL	has_input(UniProtKB:Q13571),occurs_in(CL:0000451)	P
+UniProtKB	P46934	NEDD4	involved_in	GO:0007041	lysosomal transport	ECO:0000314	IDA	PMID:18544533		9606	UniProt		P
+UniProtKB	P49754	VPS41	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:25783203		9606	UniProt		P
+UniProtKB	P49754	VPS41	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000315	IMP	PMID:23167963		9606	UniProt		P
+UniProtKB	P51149	RAB7A	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000318	IBA	PMID:21873635	FB:FBgn0015795|PANTHER:PTN001178536|UniProtKB:P51149	9606	GO_Central		P
+UniProtKB	P51149	RAB7A	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:18272684		9606	BHF-UCL		P
+UniProtKB	P51149	RAB7A	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000315	IMP	PMID:22115783		9606	BHF-UCL	has_input(UniProtKB:Q96S99)	P
+UniProtKB	P51809	VAMP7	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001079719|RGD:621558|UniProtKB:P51809	9606	GO_Central		P
+UniProtKB	P51809	VAMP7	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000314	IDA	PMID:10888671		9606	UniProt		P
+UniProtKB	P55072	VCP	involved_in	GO:0032510	endosome to lysosome transport via multivesicular body sorting pathway	ECO:0000315	IMP	PMID:21822278		9606	UniProt		P
+UniProtKB	P57768	SNX16	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000543299|UniProtKB:P57768	9606	GO_Central		P
+UniProtKB	P57768	SNX16	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000543299|UniProtKB:P57768	9606	GO_Central		P
+UniProtKB	P57768	SNX16	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:12813048		9606	UniProt		P
+UniProtKB	P57768	SNX16	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000315	IMP	PMID:12813048		9606	UniProt		P
+UniProtKB	P62745	RHOB	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000314	IDA	PMID:10508588		9606	UniProt		P
+UniProtKB	P62955	CACNG7	involved_in	GO:0098943	neurotransmitter receptor transport, postsynaptic endosome to lysosome	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1316660|PANTHER:PTN000251098	9606	GO_Central		P
+UniProtKB	Q07954	LRP1	involved_in	GO:0007041	lysosomal transport	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q91ZX7	9606	UniProt		P
+UniProtKB	Q13286	CLN3	involved_in	GO:0090160	Golgi to lysosome transport	ECO:0000315	IMP	PMID:18817525		9606	UniProt		P
+UniProtKB	Q13496	MTM1	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030561	9606	InterPro		P
+UniProtKB	Q13496	MTM1	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000314	IDA	PMID:14722070		9606	UniProt		P
+UniProtKB	Q13571	LAPTM5	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000250	ISS	PMID:8661146	UniProtKB:Q61168	9606	ARUK-UCL	part_of(CL:0000912),part_of(UBERON:0002106)	P
+UniProtKB	Q13571	LAPTM5	involved_in	GO:0090160	Golgi to lysosome transport	ECO:0000250	ISS	PMID:8661146	UniProtKB:Q61168	9606	ARUK-UCL		P
+UniProtKB	Q13772	NCOA4	acts_upstream_of_or_within	GO:0006622	protein targeting to lysosome	ECO:0000314	IDA	PMID:25327288		9606	MGI		P
+UniProtKB	Q14108	SCARB2	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000303	NAS	PMID:25202012		9606	ARUK-UCL	regulates_transport_of(UniProtKB:P04062),has_start_location(GO:0005783)	P
+UniProtKB	Q14108	SCARB2	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1196458|PANTHER:PTN002629892|UniProtKB:Q14108	9606	GO_Central		P
+UniProtKB	Q14108	SCARB2	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35114|ensembl:ENSMUSP00000031377	9606	Ensembl		P
+UniProtKB	Q14108	SCARB2	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000315	IMP	PMID:18022370		9606	BHF-UCL	regulates_transport_of(UniProtKB:P04062),part_of(GO:0043471),has_start_location(GO:0005783)	P
+UniProtKB	Q2KHT3	CLEC16A	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000318	IBA	PMID:21873635	FB:FBgn0038427|PANTHER:PTN000486192	9606	GO_Central		P
+UniProtKB	Q3T906	GNPTAB	involved_in	GO:0016256	N-glycan processing to lysosome	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001171284|UniProtKB:Q3T906|ZFIN:ZDB-GENE-030131-4714	9606	GO_Central		P
+UniProtKB	Q3T906	GNPTAB	involved_in	GO:0016256	N-glycan processing to lysosome	ECO:0000315	IMP	PMID:19938078		9606	UniProt		P
+UniProtKB	Q3T906	GNPTAB	involved_in	GO:0016256	N-glycan processing to lysosome	ECO:0000315	IMP	PMID:25505245		9606	UniProt		P
+UniProtKB	Q53GY9	Q53GY9	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000296	9606	InterPro		P
+UniProtKB	Q59EZ3	Q59EZ3	involved_in	GO:0007041	lysosomal transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000479	9606	InterPro		P
+UniProtKB	Q59GR1	Q59GR1	involved_in	GO:0007041	lysosomal transport	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q7TMD4	9606	UniProt		P
+UniProtKB	Q5JY77	GPRASP1	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:23954414		9606	UniProt		P
+UniProtKB	Q5VIR6	VPS53	acts_upstream_of_or_within	GO:0007041	lysosomal transport	ECO:0000315	IMP	PMID:25799061		9606	MGI		P
+UniProtKB	Q68CP4	HGSNAT	involved_in	GO:0007041	lysosomal transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000775706|UniProtKB:Q68CP4	9606	GO_Central		P
+UniProtKB	Q68CP4	HGSNAT	involved_in	GO:0007041	lysosomal transport	ECO:0000314	IDA	PMID:20650889		9606	UniProt		P
+UniProtKB	Q6I9U3	M6PR	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000296	9606	InterPro		P
+UniProtKB	Q6IQ22	RAB12	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P35283	9606	UniProt		P
+UniProtKB	Q6P3W7	SCYL2	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000314	IDA	PMID:19643732		9606	BHF-UCL		P
+UniProtKB	Q6ZNE5	ATG14	acts_upstream_of_or_within	GO:0008333	endosome to lysosome transport	ECO:0000316	IGI	PMID:22797916	UniProtKB:O95295	9606	MGI		P
+UniProtKB	Q7Z3T8	ZFYVE16	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000519220|UniProtKB:Q7Z3T8	9606	GO_Central		P
+UniProtKB	Q7Z3T8	ZFYVE16	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000315	IMP	PMID:11546807		9606	UniProt		P
+UniProtKB	Q7Z6B0	CCDC91	involved_in	GO:0090160	Golgi to lysosome transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002170298|UniProtKB:Q7Z6B0	9606	GO_Central		P
+UniProtKB	Q7Z6B0	CCDC91	involved_in	GO:0090160	Golgi to lysosome transport	ECO:0000315	IMP	PMID:17596511		9606	UniProt		P
+UniProtKB	Q86VS8	HOOK3	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:18799622		9606	UniProt		P
+UniProtKB	Q8IWJ2	GCC2	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000315	IMP	PMID:16885419		9606	UniProt		P
+UniProtKB	Q8N1B4	VPS52	involved_in	GO:0007041	lysosomal transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001021633|UniProtKB:Q8N1B4	9606	GO_Central		P
+UniProtKB	Q8N1B4	VPS52	acts_upstream_of_or_within	GO:0007041	lysosomal transport	ECO:0000314	IDA	PMID:25799061		9606	MGI		P
+UniProtKB	Q8N612	FHIP1B	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002729589|UniProtKB:Q8N612	9606	GO_Central		P
+UniProtKB	Q8N612	FHIP1B	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:18799622		9606	UniProt		P
+UniProtKB	Q8NBP7	PCSK9	involved_in	GO:0007041	lysosomal transport	ECO:0000314	IDA	PMID:17452316		9606	BHF-UCL		P
+UniProtKB	Q8NHX9	TPCN2	involved_in	GO:0090117	endosome to lysosome transport of low-density lipoprotein particle	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q8BWC0	9606	UniProt		P
+UniProtKB	Q8TDB6	DTX3L	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:24790097		9606	UniProt	happens_during(GO:1990869),has_input(UniProtKB:P61073)	P
+UniProtKB	Q8WUH2	TGFBRAP1	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:25266290		9606	UniProt		P
+UniProtKB	Q8WXS5	CACNG8	involved_in	GO:0098943	neurotransmitter receptor transport, postsynaptic endosome to lysosome	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1316660|PANTHER:PTN000251098	9606	GO_Central		P
+UniProtKB	Q92673	SORL1	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002636554|UniProtKB:Q92673	9606	GO_Central		P
+UniProtKB	Q92673	SORL1	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000314	IDA	PMID:24523320		9606	Alzheimers_University_of_Toronto		P
+UniProtKB	Q96AH2	Q96AH2	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000296	9606	InterPro		P
+UniProtKB	Q96AH8	RAB7B	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000318	IBA	PMID:21873635	FB:FBgn0015795|PANTHER:PTN001178536|UniProtKB:P51149	9606	GO_Central		P
+UniProtKB	Q96AX1	VPS33A	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:25783203		9606	UniProt		P
+UniProtKB	Q96ED9	HOOK2	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:18799622		9606	UniProt		P
+UniProtKB	Q96EY5	MVB12A	involved_in	GO:0032510	endosome to lysosome transport via multivesicular body sorting pathway	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002419760|WB:WBGene00015508	9606	GO_Central		P
+UniProtKB	Q96JC1	VPS39	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:25783203		9606	UniProt		P
+UniProtKB	Q96JC1	VPS39	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:25266290		9606	UniProt		P
+UniProtKB	Q96JC1	VPS39	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000314	IDA	PMID:23167963		9606	UniProt		P
+UniProtKB	Q96L92	SNX27	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q3UHD6|ensembl:ENSMUSP00000102904	9606	Ensembl		P
+UniProtKB	Q96LT7	C9orf72	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6DFW0|ensembl:ENSMUSP00000103762	9606	Ensembl		P
+UniProtKB	Q96LT7	C9orf72	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q6DFW0	9606	UniProt		P
+UniProtKB	Q96NA2	RILP	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:18272684		9606	BHF-UCL		P
+UniProtKB	Q96PX1	RNF157	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002744055|UniProtKB:O60291	9606	GO_Central		P
+UniProtKB	Q96Q42	ALS2	acts_upstream_of_or_within	GO:0007041	lysosomal transport	ECO:0000314	IDA	PMID:12837691		9606	MGI		P
+UniProtKB	Q96QK1	VPS35	involved_in	GO:0099074	mitochondrion to lysosome transport	ECO:0000315	IMP	PMID:26618722		9606	ParkinsonsUK-UCL	has_input(UniProtKB:O00429)	P
+UniProtKB	Q99523	SORT1	involved_in	GO:0090160	Golgi to lysosome transport	ECO:0000314	IDA	PMID:16787399		9606	UniProt		P
+UniProtKB	Q99523	SORT1	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6PHU5|ensembl:ENSMUSP00000123564	9606	Ensembl		P
+UniProtKB	Q99523	SORT1	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000314	IDA	PMID:11331584		9606	BHF-UCL		P
+UniProtKB	Q99626	CDX2	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P43241|ensembl:ENSMUSP00000031650	9606	Ensembl		P
+UniProtKB	Q99698	LYST	involved_in	GO:0032510	endosome to lysosome transport via multivesicular body sorting pathway	ECO:0000315	IMP	PMID:9606205		9606	UniProt		P
+UniProtKB	Q99816	TSG101	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IRE4|ensembl:ENSRNOP00000018194	9606	Ensembl		P
+UniProtKB	Q9BXM7	PINK1	involved_in	GO:0099074	mitochondrion to lysosome transport	ECO:0000315	IMP	PMID:24446486		9606	ParkinsonsUK-UCL	part_of(GO:1900407)	P
+UniProtKB	Q9BZV1	UBXN6	involved_in	GO:0032510	endosome to lysosome transport via multivesicular body sorting pathway	ECO:0000315	IMP	PMID:21822278		9606	UniProt		P
+UniProtKB	Q9H1H9	KIF13A	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:19841138		9606	UniProt		P
+UniProtKB	Q9H1K0	RBSN	involved_in	GO:0090160	Golgi to lysosome transport	ECO:0000315	IMP	PMID:19139087		9606	UniProt		P
+UniProtKB	Q9H267	VPS33B	NOT|involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:25783203		9606	UniProt		P
+UniProtKB	Q9H269	VPS16	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:25783203		9606	UniProt		P
+UniProtKB	Q9H270	VPS11	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:25783203		9606	UniProt		P
+UniProtKB	Q9H8T0	AKTIP	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:18799622		9606	UniProt		P
+UniProtKB	Q9H9C1	VIPAS39	NOT|involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:25783203		9606	UniProt		P
+UniProtKB	Q9H9C1	VIPAS39	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:19109425		9606	UniProt		P
+UniProtKB	Q9HCE0	EPG5	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:29130391		9606	UniProt		P
+UniProtKB	Q9NQ11	ATP13A2	involved_in	GO:0007041	lysosomal transport	ECO:0000315	IMP	PMID:31996848		9606	UniProt		P
+UniProtKB	Q9NRC6	SPTBN5	acts_upstream_of_or_within	GO:0007041	lysosomal transport	ECO:0000315	IMP	PMID:23704327		9606	MGI		P
+UniProtKB	Q9NUM4	TMEM106B	involved_in	GO:0007041	lysosomal transport	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1919150|PANTHER:PTN002004568	9606	GO_Central		P
+UniProtKB	Q9NUM4	TMEM106B	involved_in	GO:0007041	lysosomal transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q80X71|ensembl:ENSMUSP00000031556	9606	Ensembl		P
+UniProtKB	Q9NVJ2	ARL8B	involved_in	GO:0090117	endosome to lysosome transport of low-density lipoprotein particle	ECO:0000315	IMP	PMID:21802320		9606	UniProt		P
+UniProtKB	Q9NVJ2	ARL8B	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q9CQW2	9606	UniProt		P
+UniProtKB	Q9NVJ2	ARL8B	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000315	IMP	PMID:28325809		9606	UniProt		P
+UniProtKB	Q9NVJ2	ARL8B	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQW2|ensembl:ENSMUSP00000032196	9606	Ensembl		P
+UniProtKB	Q9NZ43	USE1	involved_in	GO:0007041	lysosomal transport	ECO:0000250	ISS	PMID:16354670	UniProtKB:Q5I940	9606	HGNC-UCL		P
+UniProtKB	Q9NZ52	GGA3	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000353	IPI	PMID:17116753	UniProtKB:P46934	9606	ARUK-UCL	has_input(UniProtKB:Q13571),occurs_in(CL:0000451)	P
+UniProtKB	Q9NZN3	EHD3	involved_in	GO:0090160	Golgi to lysosome transport	ECO:0000315	IMP	PMID:19139087		9606	UniProt		P
+UniProtKB	Q9NZZ3	CHMP5	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9D7S9|ensembl:ENSMUSP00000030128	9606	Ensembl		P
+UniProtKB	Q9P1Q0	VPS54	acts_upstream_of_or_within	GO:0007041	lysosomal transport	ECO:0000315	IMP	PMID:25799061		9606	MGI		P
+UniProtKB	Q9P253	VPS18	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000318	IBA	PMID:21873635	FB:FBgn0000482|PANTHER:PTN001154188|UniProtKB:Q9P253|ZFIN:ZDB-GENE-020419-33	9606	GO_Central		P
+UniProtKB	Q9P253	VPS18	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:25783203		9606	UniProt		P
+UniProtKB	Q9P2R3	ANKFY1	involved_in	GO:0090160	Golgi to lysosome transport	ECO:0000315	IMP	PMID:22284051		9606	UniProt		P
+UniProtKB	Q9UBN1	CACNG4	involved_in	GO:0098943	neurotransmitter receptor transport, postsynaptic endosome to lysosome	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1316660|PANTHER:PTN000251098	9606	GO_Central		P
+UniProtKB	Q9UF02	CACNG5	involved_in	GO:0098943	neurotransmitter receptor transport, postsynaptic endosome to lysosome	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1316660|PANTHER:PTN000251098	9606	GO_Central		P
+UniProtKB	Q9UGU5	HMGXB4	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000303	NAS	PMID:10329004		9606	UniProt		P
+UniProtKB	Q9UID3	VPS51	involved_in	GO:0007041	lysosomal transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000409559|UniProtKB:Q9UID3	9606	GO_Central		P
+UniProtKB	Q9UID3	VPS51	acts_upstream_of_or_within	GO:0007041	lysosomal transport	ECO:0000315	IMP	PMID:25799061		9606	MGI		P
+UniProtKB	Q9UJC3	HOOK1	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000315	IMP	PMID:18799622		9606	UniProt		P
+UniProtKB	Q9UK23	NAGPA	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000304	TAS	PMID:10551838		9606	PINC		P
+UniProtKB	Q9UN37	VPS4A	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000315	IMP	PMID:16973552		9606	UniProt	has_input(UniProtKB:Q9BRG1)|has_input(UniProtKB:Q99816)|has_input(UniProtKB:Q96FZ7)	P
+UniProtKB	Q9UNK0	STX8	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z2Q7|ensembl:ENSRNOP00000005204	9606	Ensembl		P
+UniProtKB	Q9UPV9	TRAK1	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002697048|UniProtKB:Q9UPV9	9606	GO_Central		P
+UniProtKB	Q9UPV9	TRAK1	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000314	IDA	PMID:18675823		9606	UniProt		P
+UniProtKB	Q9UQN3	CHMP2B	involved_in	GO:0061763	multivesicular body-lysosome fusion	ECO:0000304	TAS	PMID:21118109		9606	ParkinsonsUK-UCL		P
+UniProtKB	Q9Y2T2	AP3M1	involved_in	GO:0006622	protein targeting to lysosome	ECO:0000304	TAS	PMID:10024875		9606	PINC		P
+UniProtKB	Q9Y3E7	CHMP3	involved_in	GO:0061763	multivesicular body-lysosome fusion	ECO:0000315	IMP	PMID:16554368		9606	ParkinsonsUK-UCL		P
+UniProtKB	Q9Y4G2	PLEKHM1	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000315	IMP	PMID:28325809		9606	UniProt		P
+UniProtKB	Q9Y5H0	PCDHGA3	involved_in	GO:0008333	endosome to lysosome transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q91XY5|ensembl:ENSMUSP00000073150	9606	Ensembl		P
+UniProtKB	Q9Y698	CACNG2	involved_in	GO:0098943	neurotransmitter receptor transport, postsynaptic endosome to lysosome	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1316660|PANTHER:PTN000251098	9606	GO_Central		P
+UniProtKB	Q9Y698	CACNG2	involved_in	GO:0098943	neurotransmitter receptor transport, postsynaptic endosome to lysosome	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O88602|ensembl:ENSMUSP00000019290	9606	Ensembl		P
+UniProtKB	S4R328	IGF2R	involved_in	GO:0007041	lysosomal transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000479	9606	InterPro		P
+ComplexPortal	CPX-329	escrt-iii_human	involved_in	GO:0061763	multivesicular body-lysosome fusion	ECO:0005547		PMID:16505166		9606	ComplexPortal		P
+ComplexPortal	CPX-329	escrt-iii_human	involved_in	GO:0061763	multivesicular body-lysosome fusion	ECO:0000303	NAS	PMID:16554368		9606	ParkinsonsUK-UCL		P
+ComplexPortal	CPX-329	escrt-iii_human	involved_in	GO:0061763	multivesicular body-lysosome fusion	ECO:0000304	TAS	PMID:21118109		9606	ParkinsonsUK-UCL		P
+ComplexPortal	CPX-329	escrt-iii_human	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000315	IMP	PMID:17984323		9606	ComplexPortal		P
+ComplexPortal	CPX-338	vps4a-vps4b_human	involved_in	GO:0061764	late endosome to lysosome transport via multivesicular body sorting pathway	ECO:0005547		PMID:9211789		9606	ComplexPortal		P
+ComplexPortal	CPX-73	pik3c3-atg14_human	involved_in	GO:0006622	protein targeting to lysosome	ECO:0005547		PMID:16467569		9606	ComplexPortal		P

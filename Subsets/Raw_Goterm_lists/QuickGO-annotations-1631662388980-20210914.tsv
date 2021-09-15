@@ -1,0 +1,2 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+ComplexPortal	CPX-338	vps4a-vps4b_human	involved_in	GO:0061764	late endosome to lysosome transport via multivesicular body sorting pathway	ECO:0005547		PMID:9211789		9606	ComplexPortal		P

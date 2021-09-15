@@ -14,7 +14,7 @@ setwd("/Users/madhavmakkena/Downloads/RNAseq")
 # write.csv(raw_counts,"raw_counts_HGNC.csv", row.names = TRUE)
 # if already performed ^ then
 raw_counts <- read.csv("raw_counts_HGNC.csv", header = TRUE, row.names = 1)
-
+head(raw_counts)
 # loading the sample information
 sample_cond <- read.csv('sample_conditions.csv', header = TRUE, row.names = "sample")
 # sample_cond
@@ -69,7 +69,7 @@ result <- as.data.frame(results(DESeq))
 head(result,10)
 # write.csv(result, "result.csv", row.names = TRUE)
 
-
+head(count)
 
 #extracting the conditions from DESeq 
 cond<-as.character(DESeq$condition)
@@ -142,6 +142,11 @@ plotCounts(DESeq, gene="NPC2", intgroup="condition", transform=F, ylim=c(50, 400
 plotCounts(DESeq, gene="ABCA1", intgroup="condition", transform=F, ylim=c(50, 4000))
 plotCounts(DESeq, gene="STARD3", intgroup="condition", transform=F, ylim=c(50, 4000))
 plotCounts(DESeq, gene="STARD4", intgroup="condition", transform=F, ylim=c(50, 4000))
+plotCounts(DESeq, gene="STARD3NL", intgroup="condition", transform=F)
+plotCounts(DESeq, gene="STAR", intgroup="condition", transform=F)
+
+
+lista <- c("NPC2", "NPC1", "ABCA1", "STARD3", "STARD4")
 
 
 par(mfrow=c(1,1))
@@ -149,14 +154,18 @@ testlist <- volcanoPlot(res=result, #Results object
                         title="Fibroblast vs SH_SY5Y",
                         p=0.05, #adjusted p-value threshold for DEGs
                         FC=log2(1.5), #log2FoldChange threshold for DEGs (can be 0)
-                        lab=NULL, #list of genes to label (NULL to not label any)
-                        col=NULL, #list of genes to colour (NULL to not colour any)
+                        lab=lista, #list of genes to label (NULL to not label any)
+                        col=lista, #list of genes to colour (NULL to not colour any)
                         fclim=NULL, #x-axis (log2FoldChange) limits, genes passing this limit will be represented as triangles on the edge of the plot - good if you have some extreme outliers
                         showNum=F, #Show the numbers of genes on the plot?
                         returnDEG=T, #Return list of DEGs (Down, Up) - this is good for running GO later on
                         expScale=F, #Scale point size to mean expression?
                         upcol="forestgreen", #Colour value for upregulated genes, NULL will be red
                         dncol="firebrick") #Colour value for downregulated genes, NULL will be blue)
+#figure out exactly what the axis mean
+
+
+
 
 
 testlist_up <- c(list(testlist_up=testlist$Up))
