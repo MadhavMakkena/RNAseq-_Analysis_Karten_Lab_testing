@@ -19,6 +19,7 @@ head(raw_counts)
 sample_cond <- read.csv('sample_conditions.csv', header = TRUE, row.names = "sample")
 # sample_cond
 
+
 # checking if the sample names in sample data match the count data
 all (rownames(sample_cond) %in% colnames(raw_counts))
 all (rownames(sample_cond) == colnames(raw_counts))
@@ -69,7 +70,6 @@ result <- as.data.frame(results(DESeq))
 head(result,10)
 # write.csv(result, "result.csv", row.names = TRUE)
 
-head(count)
 
 #extracting the conditions from DESeq 
 cond<-as.character(DESeq$condition)
@@ -131,8 +131,8 @@ lapply(c("SAGx", "GSVA", "fgsea", "gage", "qusage", "gpGeneSets", "BinfTools"), 
 # write.csv(count_HGNC_cholesterol, "count_HGNC_cholesterol.csv")
 # write.csv(result_HGNC_cholesterol, "result_HGNC_cholesterol.csv")
 
-count_HGNC_cholesterol <- read.csv("count_HGNC_cholesterol.csv", row.names = 1, header = TRUE)
-result_HGNC_cholesterol <- read.csv("result_HGNC_cholesterol.csv", row.names = 1, header = TRUE)
+# count_HGNC_cholesterol <- read.csv("count_HGNC_cholesterol.csv", row.names = 1, header = TRUE)
+# result_HGNC_cholesterol <- read.csv("result_HGNC_cholesterol.csv", row.names = 1, header = TRUE)
 
 #
 par(mfrow=c(2,3))
@@ -142,11 +142,28 @@ plotCounts(DESeq, gene="NPC2", intgroup="condition", transform=F, ylim=c(50, 400
 plotCounts(DESeq, gene="ABCA1", intgroup="condition", transform=F, ylim=c(50, 4000))
 plotCounts(DESeq, gene="STARD3", intgroup="condition", transform=F, ylim=c(50, 4000))
 plotCounts(DESeq, gene="STARD4", intgroup="condition", transform=F, ylim=c(50, 4000))
-plotCounts(DESeq, gene="STARD3NL", intgroup="condition", transform=F)
-plotCounts(DESeq, gene="STAR", intgroup="condition", transform=F)
+# plotCounts(DESeq, gene="STARD3NL", intgroup="condition", transform=F)
+# plotCounts(DESeq, gene="STAR", intgroup="condition", transform=F)
 
 
-lista <- c("NPC2", "NPC1", "ABCA1", "STARD3", "STARD4")
+Aaron_Endosome <- read.csv("Aarons_subsets/Endosome.csv", header = FALSE)$V1
+Aaron_Endosome <- Aaron_Endosome[-1];
+
+Aaron_Chol_Homeo <- read.csv("Aarons_subsets/Cholesterol_Homeostasis.csv", header = FALSE)$V1
+Aaron_Chol_Homeo <- Aaron_Chol_Homeo[-1];
+
+Aaron_Chol_Trans <- read.csv("Aarons_subsets/Cholesterol_Transport.csv", header = FALSE)$V1
+Aaron_Chol_Trans <- Aaron_Chol_Trans[-1];
+
+
+Aaron_combined <- c(Aaron_Endosome, Aaron_Chol_Homeo, Aaron_Chol_Trans)
+Aaron_GMT_combined <- list(GeneSet1=(Aaron_Endosome), GeneSet2=(Aaron_Chol_Homeo), GeneSet2=(Aaron_Chol_Trans))
+
+Aaron_GMT_combined_chol <- list(GeneSet1=(Aaron_Chol_Homeo), GeneSet2=(Aaron_Chol_Trans))
+
+Aaron_GMT_combined_chol_homeo <- list(GeneSet1=(Aaron_Chol_Homeo))
+
+Aaron_GMT_combined_chol_trans <- list(GeneSet1=(Aaron_Chol_Trans))
 
 
 par(mfrow=c(1,1))
@@ -154,8 +171,8 @@ testlist <- volcanoPlot(res=result, #Results object
                         title="Fibroblast vs SH_SY5Y",
                         p=0.05, #adjusted p-value threshold for DEGs
                         FC=log2(1.5), #log2FoldChange threshold for DEGs (can be 0)
-                        lab=lista, #list of genes to label (NULL to not label any)
-                        col=lista, #list of genes to colour (NULL to not colour any)
+                        lab=NULL, #list of genes to label (NULL to not label any)
+                        col=Aaron_combined, #list of genes to colour (NULL to not colour any)
                         fclim=NULL, #x-axis (log2FoldChange) limits, genes passing this limit will be represented as triangles on the edge of the plot - good if you have some extreme outliers
                         showNum=F, #Show the numbers of genes on the plot?
                         returnDEG=T, #Return list of DEGs (Down, Up) - this is good for running GO later on
@@ -163,13 +180,61 @@ testlist <- volcanoPlot(res=result, #Results object
                         upcol="forestgreen", #Colour value for upregulated genes, NULL will be red
                         dncol="firebrick") #Colour value for downregulated genes, NULL will be blue)
 #figure out exactly what the axis mean
+# 
+# testlist_up <- c(list(testlist_up=testlist$Up))
+# testlist_down <- c(list(testlist_down=testlist$Down))
+# 
+# write.csv(testlist_up, "testlist_up.csv", row.names = TRUE)
+# write.csv(testlist_down, "testlist_down.csv", row.names = FALSE)
+
+
+par(mfrow=c(1,1))
+library("BinfTools")
+gsva_plot(counts=t(scale(t(as.matrix(count)))), #counts object (as matrix), make sure rownames are the same nomenclature as the gene symbols in geneset
+          geneset=Aaron_GMT_combined_chol_trans,
+          method="ssgsea", #Method for gsva plot - see documentation for options
+          condition=cond,
+          con="Fibroblast", #Indicate the control condition
+          title="Fibroblast vs SH_SY5Y (ssGSEA)", 
+          compare=NULL, #for pairwise t-tests, leave NULL to do all possible comparisons, or provide a list of vectors, length 2 indicating the conditions to compare
+          col="Dark2", #Colour scheme, can be RColourBrewer palette name, or vector of rgb(), hexadecimal, or colour names
+          style="violin") #If not 'violin' it will be a box plot
 
 
 
 
 
-testlist_up <- c(list(testlist_up=testlist$Up))
-testlist_down <- c(list(testlist_down=testlist$Down))
-
-write.csv(testlist_up, "testlist_up.csv", row.names = TRUE)
-write.csv(testlist_down, "testlist_down.csv", row.names = FALSE)
+# 
+# count_plot(
+#   counts=count,
+#   scaling = "zscore",
+#   genes=geneSets,
+#   condition=cond,
+#   con ="Fibroblast",
+#   title = "Volcano Gene Set",
+#   compare = NULL,
+#   col = "Dark2",
+#   method = "ind",
+#   pair = F,
+#   pc = 1,
+#   yax = NULL,
+#   showStat = T,
+#   style = "violin"
+# )
+# 
+# zheat(
+#   genes = gene_list,
+#   counts=count,
+#   conditions=cond,
+#   con = "Fibroblast",
+#   title = "Volcano Gene Set",
+#   labgenes = NULL, #leave null to label all genes, set to “” to label no genes, or type a character vector of select genes to label.
+#   zscore = T, #Plot z-score normalized expression or set to FALSE to plot raw expression, you may want to use counts=log10(1+count) if you do this though
+#   rclus = F, #Do you want to cluster the rows using hierarchical clustering?
+#   hmcol = NULL,
+#   retClus = F
+# )
+# 
+# 
+# 
+# 

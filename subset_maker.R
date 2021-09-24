@@ -33,6 +33,9 @@ go_name <- vector(,1)
 
 comb_go_lists_subset <- comb_go_lists
 
+total_go_list <- distinct(subset(comb_go_lists, select = -c(GO.NAME)))
+# write.csv(total_go_list, "total_go_list.csv", row.names = FALSE, Header = FALSE)
+
 #creating a directory
 setwd("/Users/madhavmakkena/Downloads/RNAseq/Subsets")
 dir.create("all_subsets")
