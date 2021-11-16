@@ -1,0 +1,6 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	Q9UQN3	CHMP2B	involved_in	GO:0061763	multivesicular body-lysosome fusion	ECO:0000304	TAS	PMID:21118109		9606	ParkinsonsUK-UCL		P
+UniProtKB	Q9Y3E7	CHMP3	involved_in	GO:0061763	multivesicular body-lysosome fusion	ECO:0000315	IMP	PMID:16554368		9606	ParkinsonsUK-UCL		P
+ComplexPortal	CPX-329	escrt-iii_human	involved_in	GO:0061763	multivesicular body-lysosome fusion	ECO:0005547		PMID:16505166		9606	ComplexPortal		P
+ComplexPortal	CPX-329	escrt-iii_human	involved_in	GO:0061763	multivesicular body-lysosome fusion	ECO:0000303	NAS	PMID:16554368		9606	ParkinsonsUK-UCL		P
+ComplexPortal	CPX-329	escrt-iii_human	involved_in	GO:0061763	multivesicular body-lysosome fusion	ECO:0000304	TAS	PMID:21118109		9606	ParkinsonsUK-UCL		P

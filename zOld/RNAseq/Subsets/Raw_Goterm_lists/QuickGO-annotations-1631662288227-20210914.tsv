@@ -1,0 +1,12 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	O95295	SNAPIN	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z266|ensembl:ENSMUSP00000122090	9606	Ensembl		P
+UniProtKB	P49754	VPS41	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000315	IMP	PMID:23167963		9606	UniProt		P
+UniProtKB	Q96JC1	VPS39	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000314	IDA	PMID:23167963		9606	UniProt		P
+UniProtKB	Q96LT7	C9orf72	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6DFW0|ensembl:ENSMUSP00000103762	9606	Ensembl		P
+UniProtKB	Q96LT7	C9orf72	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q6DFW0	9606	UniProt		P
+UniProtKB	Q9NVJ2	ARL8B	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q9CQW2	9606	UniProt		P
+UniProtKB	Q9NVJ2	ARL8B	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000315	IMP	PMID:28325809		9606	UniProt		P
+UniProtKB	Q9NVJ2	ARL8B	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQW2|ensembl:ENSMUSP00000032196	9606	Ensembl		P
+UniProtKB	Q9Y4G2	PLEKHM1	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000315	IMP	PMID:28325809		9606	UniProt		P
+ComplexPortal	CPX-329	escrt-iii_human	involved_in	GO:1902774	late endosome to lysosome transport	ECO:0000315	IMP	PMID:17984323		9606	ComplexPortal		P
+ComplexPortal	CPX-338	vps4a-vps4b_human	involved_in	GO:0061764	late endosome to lysosome transport via multivesicular body sorting pathway	ECO:0005547		PMID:9211789		9606	ComplexPortal		P
