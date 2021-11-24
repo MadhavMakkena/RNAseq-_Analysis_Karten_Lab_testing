@@ -1,0 +1,135 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	A0A024R3H2	SORL1	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	A0A024RB05	CD63	located_in	GO:0005771	multivesicular body	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0174	9606	UniProt		C
+UniProtKB	A0A024RDY3	LAMP1	located_in	GO:0005771	multivesicular body	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11438|ensembl:ENSMUSP00000033824	9606	Ensembl		C
+UniProtKB	A0A7I2V2D8	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	A0A7I2V2D8	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000638776	9606	UniProt		C
+UniProtKB	A0A7I2V2K2	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	A0A7I2V2K2	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000638776	9606	UniProt		C
+UniProtKB	A0A7I2V2R9	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	A0A7I2V2R9	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000638776	9606	UniProt		C
+UniProtKB	A0A7I2V2W5	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	A0A7I2V2W5	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000638776	9606	UniProt		C
+UniProtKB	A0A7I2V307	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	A0A7I2V307	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000638776	9606	UniProt		C
+UniProtKB	A0A7I2V3F9	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	A0A7I2V3F9	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000638776	9606	UniProt		C
+UniProtKB	A0A7I2V3I8	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	A0A7I2V3I8	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000638776	9606	UniProt		C
+UniProtKB	A0A7I2V3J3	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	A0A7I2V3J3	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000638776	9606	UniProt		C
+UniProtKB	A0A7I2V3Z1	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	A0A7I2V3Z1	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000638776	9606	UniProt		C
+UniProtKB	A0A7I2V5A2	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	A0A7I2V5A2	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000638776	9606	UniProt		C
+UniProtKB	A0A7I2V5A3	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	A0A7I2V5A3	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000638776	9606	UniProt		C
+UniProtKB	A0A7I2V637	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	A0A7I2V637	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000638776	9606	UniProt		C
+UniProtKB	A0A7I2V6E0	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	A0A7I2V6E0	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000638776	9606	UniProt		C
+UniProtKB	B2R5T5	PRKAR1A	located_in	GO:0005771	multivesicular body	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBC7|ensembl:ENSMUSP00000102288	9606	Ensembl		C
+UniProtKB	B4E1E2	B4E1E2	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	B4E1E2	B4E1E2	located_in	GO:0032585	multivesicular body membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000638776	9606	UniProt		C
+UniProtKB	F8VWK8	CD63	located_in	GO:0005771	multivesicular body	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0174	9606	UniProt		C
+UniProtKB	F8W022	CD63	located_in	GO:0005771	multivesicular body	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0174	9606	UniProt		C
+UniProtKB	O00194	RAB27B	located_in	GO:0032585	multivesicular body membrane	ECO:0000314	IDA	PMID:19966785		9606	UniProt		C
+UniProtKB	O14964	HGS	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	O43633	CHMP2A	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000049603|TAIR:locus:2054612	9606	GO_Central		C
+UniProtKB	O76096	CST7	located_in	GO:0005771	multivesicular body	ECO:0000314	IDA	PMID:22365146		9606	ARUK-UCL		C
+UniProtKB	O95237	LRAT	located_in	GO:0005771	multivesicular body	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q9JI61	9606	UniProt		C
+UniProtKB	O95237	LRAT	located_in	GO:0005771	multivesicular body	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9JI61|ensembl:ENSRNOP00000035053	9606	Ensembl		C
+UniProtKB	O95237	LRAT	located_in	GO:0005771	multivesicular body	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0174	9606	UniProt		C
+UniProtKB	O96009	NAPSA	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-5685902		9606	Reactome		C
+UniProtKB	O96009	NAPSA	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-5684864		9606	Reactome		C
+UniProtKB	P00533	EGFR	located_in	GO:0097489	multivesicular body, internal vesicle lumen	ECO:0000314	IDA	PMID:17714434		9606	UniProt		C
+UniProtKB	P04233	CD74	located_in	GO:0005771	multivesicular body	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P04441|ensembl:ENSMUSP00000095171	9606	Ensembl		C
+UniProtKB	P07711	CTSL	located_in	GO:0005771	multivesicular body	ECO:0000314	IDA	PMID:22365146		9606	ARUK-UCL		C
+UniProtKB	P07988	SFTPB	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000896143|RGD:621700	9606	GO_Central		C
+UniProtKB	P07988	SFTPB	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-9624789		9606	Reactome		C
+UniProtKB	P07988	SFTPB	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-6791016		9606	Reactome		C
+UniProtKB	P07988	SFTPB	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-5684865		9606	Reactome		C
+UniProtKB	P07988	SFTPB	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-5684864		9606	Reactome		C
+UniProtKB	P08962	CD63	located_in	GO:0032585	multivesicular body membrane	ECO:0000314	IDA	PMID:26280656		9606	UniProt		C
+UniProtKB	P08962	CD63	located_in	GO:0097487	multivesicular body, internal vesicle	ECO:0000314	IDA	PMID:21962903		9606	UniProt		C
+UniProtKB	P08962	CD63	located_in	GO:0097487	multivesicular body, internal vesicle	ECO:0000314	IDA	PMID:26280656		9606	UniProt		C
+UniProtKB	P08962	CD63	located_in	GO:0005771	multivesicular body	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0174	9606	UniProt		C
+UniProtKB	P08962	CD63	located_in	GO:0032585	multivesicular body membrane	ECO:0007005	HDA	PMID:12519789		9606	UniProt	part_of(CL:0000236)	C
+UniProtKB	P09668	CTSH	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-5685902		9606	Reactome		C
+UniProtKB	P09668	CTSH	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-5684864		9606	Reactome		C
+UniProtKB	P0DJD7	PGA4	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-5685902		9606	Reactome		C
+UniProtKB	P0DJD7	PGA4	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-5684864		9606	Reactome		C
+UniProtKB	P0DJD8	PGA3	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-5685902		9606	Reactome		C
+UniProtKB	P0DJD8	PGA3	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-5684864		9606	Reactome		C
+UniProtKB	P0DJD9	PGA5	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-5685902		9606	Reactome		C
+UniProtKB	P0DJD9	PGA5	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-5684864		9606	Reactome		C
+UniProtKB	P10644	PRKAR1A	located_in	GO:0005771	multivesicular body	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBC7|ensembl:ENSMUSP00000102288	9606	Ensembl		C
+UniProtKB	P11279	LAMP1	located_in	GO:0005771	multivesicular body	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11438|ensembl:ENSMUSP00000033824	9606	Ensembl		C
+UniProtKB	P11686	SFTPC	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-5685902		9606	Reactome		C
+UniProtKB	P11686	SFTPC	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-5684868		9606	Reactome		C
+UniProtKB	P11686	SFTPC	located_in	GO:0097486	multivesicular body lumen	ECO:0000304	TAS	Reactome:R-HSA-5684865		9606	Reactome		C
+UniProtKB	P11912	CD79A	located_in	GO:0005771	multivesicular body	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11911|ensembl:ENSMUSP00000003469	9606	Ensembl		C
+UniProtKB	P11912	CD79A	located_in	GO:0005771	multivesicular body	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P11911	9606	UniProt		C
+UniProtKB	P13693	TPT1	located_in	GO:0005771	multivesicular body	ECO:0000314	IDA	PMID:15319436		9606	MGI		C
+UniProtKB	P14672	SLC2A4	located_in	GO:0005771	multivesicular body	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P19357|ensembl:ENSRNOP00000023256	9606	Ensembl		C
+UniProtKB	P24387	CRHBP	located_in	GO:0005771	multivesicular body	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P24388	9606	UniProt		C
+UniProtKB	P31321	PRKAR1B	located_in	GO:0005771	multivesicular body	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12849|ensembl:ENSMUSP00000026973	9606	Ensembl		C
+UniProtKB	P35247	SFTPD	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002771384|RGD:3665|RGD:3667	9606	GO_Central		C
+UniProtKB	P40967	PMEL	located_in	GO:0032585	multivesicular body membrane	ECO:0000314	IDA	PMID:11694580		9606	UniProt		C
+UniProtKB	P40967	PMEL	located_in	GO:0005771	multivesicular body	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0174	9606	UniProt		C
+UniProtKB	P42857	NSG1	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	P51159	RAB27A	located_in	GO:0032585	multivesicular body membrane	ECO:0000314	IDA	PMID:19966785		9606	UniProt		C
+UniProtKB	P56159	GFRA1	located_in	GO:0005771	multivesicular body	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0174	9606	UniProt		C
+UniProtKB	P56817	BACE1	located_in	GO:0005771	multivesicular body	ECO:0000314	IDA	PMID:24612608		9606	UniProt		C
+UniProtKB	P59074	CHMP4BP1	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	FB:FBgn0086656|PANTHER:PTN000509386|TAIR:locus:2075800	9606	GO_Central		C
+UniProtKB	P62491	RAB11A	located_in	GO:0005771	multivesicular body	ECO:0000314	IDA	PMID:15634213		9606	UniProt		C
+UniProtKB	Q05996	ZP2	located_in	GO:0005771	multivesicular body	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P20239|ensembl:ENSMUSP00000033207	9606	Ensembl		C
+UniProtKB	Q05996	ZP2	located_in	GO:0005771	multivesicular body	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P20239	9606	UniProt		C
+UniProtKB	Q10589	BST2	part_of	GO:0005771	multivesicular body	ECO:0000315	IMP	PMID:22072966		9606	CACAO		C
+UniProtKB	Q5S007	LRRK2	located_in	GO:0097487	multivesicular body, internal vesicle	ECO:0000314	IDA	PMID:19640926		9606	ParkinsonsUK-UCL		C
+UniProtKB	Q5VYK3	ECPAS	located_in	GO:0005771	multivesicular body	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0174	9606	UniProt		C
+UniProtKB	Q5VYK3	ECPAS	located_in	GO:0005771	multivesicular body	ECO:0000314	IDA	PMID:20682791		9606	UniProt		C
+UniProtKB	Q658P3	STEAP3	located_in	GO:0005771	multivesicular body	ECO:0000314	IDA	PMID:15319436		9606	MGI		C
+UniProtKB	Q6UXG3	CD300LG	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	Q7LBR1	CHMP1B	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000049603|TAIR:locus:2054612	9606	GO_Central		C
+UniProtKB	Q86VI4	LAPTM4B	located_in	GO:0032585	multivesicular body membrane	ECO:0000314	IDA	PMID:25588945		9606	UniProt		C
+UniProtKB	Q86VI4	LAPTM4B	located_in	GO:0032585	multivesicular body membrane	ECO:0000314	IDA	PMID:26280656		9606	UniProt		C
+UniProtKB	Q86VI4	LAPTM4B	located_in	GO:0097487	multivesicular body, internal vesicle	ECO:0000314	IDA	PMID:26280656		9606	UniProt		C
+UniProtKB	Q86VI4	LAPTM4B	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	Q8IWL1	SFTPA2	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002771384|RGD:3665|RGD:3667	9606	GO_Central		C
+UniProtKB	Q8IWL2	SFTPA1	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002771384|RGD:3665|RGD:3667	9606	GO_Central		C
+UniProtKB	Q8NDX2	SLC17A8	located_in	GO:0005771	multivesicular body	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7TSF2|ensembl:ENSRNOP00000075876	9606	Ensembl		C
+UniProtKB	Q8WUX9	CHMP7	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	FB:FBgn0086656|PANTHER:PTN000509386|TAIR:locus:2075800	9606	GO_Central		C
+UniProtKB	Q92673	SORL1	located_in	GO:0005771	multivesicular body	ECO:0000314	IDA	PMID:21385844		9606	UniProt		C
+UniProtKB	Q92673	SORL1	located_in	GO:0005771	multivesicular body	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P0DSP1|ensembl:ENSRNOP00000089955	9606	Ensembl		C
+UniProtKB	Q92673	SORL1	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	Q96CF2	CHMP4C	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	FB:FBgn0086656|PANTHER:PTN000509386|TAIR:locus:2075800	9606	GO_Central		C
+UniProtKB	Q96F15	GIMAP5	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	Q96FZ7	CHMP6	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	FB:FBgn0086656|PANTHER:PTN000509386|TAIR:locus:2075800	9606	GO_Central		C
+UniProtKB	Q96PU5	NEDD4L	located_in	GO:0005771	multivesicular body	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0174	9606	UniProt		C
+UniProtKB	Q99758	ABCA3	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	Q99816	TSG101	located_in	GO:0005771	multivesicular body	ECO:0000304	TAS	PMID:15611048		9606	HGNC-UCL		C
+UniProtKB	Q9BY43	CHMP4A	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	FB:FBgn0086656|PANTHER:PTN000509386|TAIR:locus:2075800	9606	GO_Central		C
+UniProtKB	Q9H444	CHMP4B	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	FB:FBgn0086656|PANTHER:PTN000509386|TAIR:locus:2075800	9606	GO_Central		C
+UniProtKB	Q9HD42	CHMP1A	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000049603|TAIR:locus:2054612	9606	GO_Central		C
+UniProtKB	Q9NP58	ABCB6	located_in	GO:0032585	multivesicular body membrane	ECO:0000314	IDA	PMID:25627919		9606	UniProt		C
+UniProtKB	Q9NP58	ABCB6	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	Q9NP79	VTA1	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000297055|SGD:S000004171|TAIR:locus:2116437	9606	GO_Central		C
+UniProtKB	Q9NQ11	ATP13A2	located_in	GO:0032585	multivesicular body membrane	ECO:0000303	NAS	PMID:24603074		9606	ParkinsonsUK-UCL		C
+UniProtKB	Q9NQ11	ATP13A2	located_in	GO:0005771	multivesicular body	ECO:0000304	TAS	PMID:25548531		9606	ParkinsonsUK-UCL		C
+UniProtKB	Q9NQ11	ATP13A2	located_in	GO:0005771	multivesicular body	ECO:0000314	IDA	PMID:25392495		9606	ParkinsonsUK-UCL		C
+UniProtKB	Q9NQ11	ATP13A2	located_in	GO:0005771	multivesicular body	ECO:0000314	IDA	PMID:24603074		9606	ParkinsonsUK-UCL	part_of(CL:0000540)	C
+UniProtKB	Q9NQ11	ATP13A2	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	Q9NV92	NDFIP2	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	Q9NY06	LC27	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	Q9NZZ3	CHMP5	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	FB:FBgn0086656|PANTHER:PTN000509386|TAIR:locus:2075800	9606	GO_Central		C
+UniProtKB	Q9P0T7	TMEM9	located_in	GO:0032585	multivesicular body membrane	ECO:0000314	IDA	PMID:30374053		9606	UniProt		C
+UniProtKB	Q9P0T7	TMEM9	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	Q9UBN7	HDAC6	located_in	GO:0005771	multivesicular body	ECO:0000304	TAS	PMID:25548531		9606	ParkinsonsUK-UCL		C
+UniProtKB	Q9UQN3	CHMP2B	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000049603|TAIR:locus:2054612	9606	GO_Central		C
+UniProtKB	Q9Y328	NSG2	located_in	GO:0032585	multivesicular body membrane	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P47759	9606	UniProt		C
+UniProtKB	Q9Y328	NSG2	located_in	GO:0032585	multivesicular body membrane	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P47759|ensembl:ENSMUSP00000020537	9606	Ensembl		C
+UniProtKB	Q9Y328	NSG2	located_in	GO:0032585	multivesicular body membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0175	9606	UniProt		C
+UniProtKB	Q9Y3E7	CHMP3	is_active_in	GO:0005771	multivesicular body	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000049603|TAIR:locus:2054612	9606	GO_Central		C
+UniProtKB	W6A4U0	CD63	located_in	GO:0005771	multivesicular body	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0174	9606	UniProt		C
+ComplexPortal	CPX-329	escrt-iii_human	part_of	GO:0032585	multivesicular body membrane	ECO:0000314	IDA	PMID:16554368		9606	ComplexPortal		C

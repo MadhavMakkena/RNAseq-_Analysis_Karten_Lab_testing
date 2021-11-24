@@ -1,0 +1,257 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	A0A024R395	MRE11A	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61216|ensembl:ENSMUSP00000034405	9606	Ensembl		P
+UniProtKB	A0A024R395	MRE11A	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61216|ensembl:ENSMUSP00000034405	9606	Ensembl		P
+UniProtKB	A0A087X1V5	NBN	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040227	9606	InterPro		P
+UniProtKB	A0A0C4DG07	NBN	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040227	9606	InterPro		P
+UniProtKB	A0A0C4DGU8	FBXO31	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR026941	9606	InterPro		P
+UniProtKB	A0A1B0GV77	FBXO31	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR026941	9606	InterPro		P
+UniProtKB	A0A590UJ99	BUB1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015661	9606	InterPro		P
+UniProtKB	A0A590UK50	BUB1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015661	9606	InterPro		P
+UniProtKB	A0JLU2	BUB1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015661	9606	InterPro		P
+UniProtKB	A0PJ71	NBN	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040227	9606	InterPro		P
+UniProtKB	A4D218	MAD1L1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008672	9606	InterPro		P
+UniProtKB	A4GXA9	EME2	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001078409|PomBase:SPAPB1E7.06c	9606	GO_Central		P
+UniProtKB	A6H8Y5	NBN	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040227	9606	InterPro		P
+UniProtKB	A8K1D3	A8K1D3	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040227	9606	InterPro		P
+UniProtKB	A8K5A6	A8K5A6	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015661	9606	InterPro		P
+UniProtKB	B2RC06	B2RC06	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR028772	9606	InterPro		P
+UniProtKB	B4DYG2	B4DYG2	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015661	9606	InterPro		P
+UniProtKB	C9IYH4	BUB1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015661	9606	InterPro		P
+UniProtKB	C9J9H5	MAD1L1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008672	9606	InterPro		P
+UniProtKB	C9JIR0	MAD1L1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008672	9606	InterPro		P
+UniProtKB	C9JJ38	MAD1L1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008672	9606	InterPro		P
+UniProtKB	C9JKI7	MAD1L1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008672	9606	InterPro		P
+UniProtKB	C9JQA4	BUB1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015661	9606	InterPro		P
+UniProtKB	C9JRC7	BUB1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015661	9606	InterPro		P
+UniProtKB	C9JX80	MAD1L1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008672	9606	InterPro		P
+UniProtKB	E2QRP0	NBN	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040227	9606	InterPro		P
+UniProtKB	E5RGN7	NBN	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040227	9606	InterPro		P
+UniProtKB	E5RGR7	NBN	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040227	9606	InterPro		P
+UniProtKB	E5RGU1	NBN	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040227	9606	InterPro		P
+UniProtKB	H0YMK5	BUB1B	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015661	9606	InterPro		P
+UniProtKB	H0YN44	BUB1B	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015661	9606	InterPro		P
+UniProtKB	H0YN97	TICRR	involved_in	GO:0033314	mitotic DNA replication checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR026153	9606	InterPro		P
+UniProtKB	H3BTB9	BUB1B-PAK6	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015661	9606	InterPro		P
+UniProtKB	J3KRF8	AURKB	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR028772	9606	InterPro		P
+UniProtKB	J3KRJ2	AURKB	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR028772	9606	InterPro		P
+UniProtKB	J3KT86	AURKB	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR028772	9606	InterPro		P
+UniProtKB	J3KTD6	AURKB	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR028772	9606	InterPro		P
+UniProtKB	J3QLK3	TEX14	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR039339	9606	InterPro		P
+UniProtKB	J3QLN8	AURKB	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR028772	9606	InterPro		P
+UniProtKB	J3QR41	AURKB	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR028772	9606	InterPro		P
+UniProtKB	K7PPA8	TP53	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P02340|ensembl:ENSMUSP00000104298	9606	Ensembl		P
+UniProtKB	K7PPA8	TP53	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P02340|ensembl:ENSMUSP00000104298	9606	Ensembl		P
+UniProtKB	O00409	FOXN3	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000316	IGI	PMID:9154802	UniProtKB:P38111	9606	UniProt		P
+UniProtKB	O14757	CHEK1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:20932473		9606	UniProt		P
+UniProtKB	O14757	CHEK1	involved_in	GO:0044818	mitotic G2/M transition checkpoint	ECO:0000315	IMP	PMID:33108758		9606	UniProt		P
+UniProtKB	O15392-1	BIRC5	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000315	IMP	PMID:12805209		9606	UniProt		P
+UniProtKB	O43264	ZW10	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000318	IBA	PMID:21873635	FB:FBgn0004643|PANTHER:PTN000258496|UniProtKB:O43264	9606	GO_Central		P
+UniProtKB	O43264	ZW10	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000314	IDA	PMID:11146660		9606	UniProt		P
+UniProtKB	O43264	ZW10	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000315	IMP	PMID:15824131		9606	UniProt		P
+UniProtKB	O43670	ZNF207	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000575875|UniProtKB:O43670	9606	GO_Central		P
+UniProtKB	O43670	ZNF207	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000315	IMP	PMID:24462186		9606	UniProt		P
+UniProtKB	O43670	ZNF207	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000315	IMP	PMID:24462187		9606	UniProt		P
+UniProtKB	O43683	BUB1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000318	IBA	PMID:21873635	FB:FBgn0031696|FB:FBgn0263855|PANTHER:PTN000361607|PomBase:SPCC1322.12c|SGD:S000003420|SGD:S000003550|TAIR:locus:2050977|WB:WBGene00004721	9606	GO_Central		P
+UniProtKB	O43683	BUB1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015661	9606	InterPro		P
+UniProtKB	O43683	BUB1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000304	TAS	PMID:9790499		9606	PINC		P
+UniProtKB	O43683	BUB1	involved_in	GO:0007093	mitotic cell cycle checkpoint signaling	ECO:0000304	TAS	PMID:9521327		9606	PINC		P
+UniProtKB	O43684	BUB3	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000318	IBA	PMID:21873635	FB:FBgn0025457|PANTHER:PTN000103865|TAIR:locus:2091211|WB:WBGene00013209	9606	GO_Central		P
+UniProtKB	O43715	TRIAP1	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000304	TAS	PMID:15735003		9606	HGNC-UCL		P
+UniProtKB	O60566	BUB1B	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000318	IBA	PMID:21873635	FB:FBgn0031696|FB:FBgn0263855|PANTHER:PTN000361607|PomBase:SPCC1322.12c|SGD:S000003420|SGD:S000003550|TAIR:locus:2050977|WB:WBGene00004721	9606	GO_Central		P
+UniProtKB	O60566	BUB1B	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015661	9606	InterPro		P
+UniProtKB	O60566	BUB1B	involved_in	GO:0007093	mitotic cell cycle checkpoint signaling	ECO:0000304	TAS	PMID:10477750		9606	PINC		P
+UniProtKB	O60729	CDC14B	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:18662541		9606	UniProt		P
+UniProtKB	O60921	HUS1	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000307391|PomBase:SPAC20G4.04c	9606	GO_Central		P
+UniProtKB	O60921	HUS1	involved_in	GO:0033314	mitotic DNA replication checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000307391|PomBase:SPAC20G4.04c	9606	GO_Central		P
+UniProtKB	O60934	NBN	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	FB:FBgn0261530|MGI:MGI:1351625|PANTHER:PTN000255549|UniProtKB:O60934	9606	GO_Central		P
+UniProtKB	O60934	NBN	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040227	9606	InterPro		P
+UniProtKB	O60934	NBN	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9R207|ensembl:ENSMUSP00000029879	9606	Ensembl		P
+UniProtKB	O60934	NBN	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:11438675		9606	UniProt		P
+UniProtKB	O75943	RAD17	involved_in	GO:0033314	mitotic DNA replication checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000255944|PomBase:SPAC14C4.13	9606	GO_Central		P
+UniProtKB	O75943	RAD17	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:15538388		9606	UniProt		P
+UniProtKB	O95229	ZWINT	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000314	IDA	PMID:15485811		9606	HGNC-UCL		P
+UniProtKB	O95926	SYF2	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9D198|ensembl:ENSMUSP00000030622	9606	Ensembl		P
+UniProtKB	O96017	CHEK2	involved_in	GO:0044773	mitotic DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	FB:FBgn0019686|PANTHER:PTN002389571|UniProtKB:O96017	9606	GO_Central		P
+UniProtKB	O96017	CHEK2	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:11298456		9606	UniProt		P
+UniProtKB	O96017	CHEK2	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000304	TAS	Reactome:R-HSA-69563		9606	Reactome		P
+UniProtKB	P04637	TP53	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P02340|ensembl:ENSMUSP00000104298	9606	Ensembl		P
+UniProtKB	P04637	TP53	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P02340|ensembl:ENSMUSP00000104298	9606	Ensembl		P
+UniProtKB	P04637	TP53	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:7958916		9606	BHF-UCL		P
+UniProtKB	P04637	TP53	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000315	IMP	PMID:16213212		9606	CAFA		P
+UniProtKB	P06493	CDK1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	FB:FBgn0004106|MGI:MGI:88351|PANTHER:PTN002514139	9606	GO_Central		P
+UniProtKB	P06493	CDK1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11440|ensembl:ENSMUSP00000020099	9606	Ensembl		P
+UniProtKB	P12270	TPR	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000315	IMP	PMID:20133940		9606	UniProt		P
+UniProtKB	P15336	ATF2	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:15916964		9606	UniProt		P
+UniProtKB	P15927	RPA2	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:21731742		9606	UniProt		P
+UniProtKB	P15941	MUC1	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000314	IDA	PMID:15710329		9606	BHF-UCL		P
+UniProtKB	P24385	CCND1	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:19412162		9606	UniProt		P
+UniProtKB	P24941	CDK2	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000304	TAS	PMID:21319273		9606	UniProt		P
+UniProtKB	P25054	APC	acts_upstream_of_or_within	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000315	IMP	PMID:17227893		9606	MGI		P
+UniProtKB	P29590	PML	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q60953|ensembl:ENSMUSP00000082816	9606	Ensembl		P
+UniProtKB	P29590	PML	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q60953	9606	UniProt		P
+UniProtKB	P33981	TTK	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1194921|PANTHER:PTN001122082|PomBase:SPBC106.01|SGD:S000002186|UniProtKB:A0A0B4KG66|UniProtKB:A0A1D8PTW7	9606	GO_Central		P
+UniProtKB	P33981	TTK	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000304	TAS	PMID:10366450		9606	PINC		P
+UniProtKB	P33981	TTK	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P35761|ensembl:ENSMUSP00000064839	9606	Ensembl		P
+UniProtKB	P38398	BRCA1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	P38398	BRCA1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17525340		9606	UniProt		P
+UniProtKB	P38398	BRCA1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17643121		9606	UniProt		P
+UniProtKB	P38398	BRCA1	involved_in	GO:0044818	mitotic G2/M transition checkpoint	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48754|ensembl:ENSMUSP00000017290	9606	Ensembl		P
+UniProtKB	P38936	CDKN1A	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:23213251		9606	UniProt		P
+UniProtKB	P38936	CDKN1A	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000304	TAS	Reactome:R-HSA-69563		9606	Reactome		P
+UniProtKB	P38936	CDKN1A	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000304	TAS	Reactome:R-HSA-6791312		9606	Reactome		P
+UniProtKB	P38936	CDKN1A	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000314	IDA	PMID:15149599		9606	BHF-UCL		P
+UniProtKB	P42575	CASP2	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000315	IMP	PMID:21726810		9606	UniProt	has_participant(UniProtKB:P78560)|has_input(UniProtKB:Q00987)	P
+UniProtKB	P43246	MSH2	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P43247|ensembl:ENSMUSP00000024967	9606	Ensembl		P
+UniProtKB	P46527	CDKN1B	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000304	TAS	Reactome:R-HSA-69563		9606	Reactome		P
+UniProtKB	P46527	CDKN1B	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000304	TAS	Reactome:R-HSA-6791312		9606	Reactome		P
+UniProtKB	P46736	BRCC3	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17525341		9606	UniProt		P
+UniProtKB	P46736	BRCC3	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261746		9606	UniProt		P
+UniProtKB	P46736	BRCC3	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	P49454	CENPF	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000303	NAS	PMID:12974617		9606	UniProt		P
+UniProtKB	P49959	MRE11	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	FB:FBgn0020270|MGI:MGI:1100512|PANTHER:PTN000015644	9606	GO_Central		P
+UniProtKB	P49959	MRE11	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1100512|PANTHER:PTN000015646|PomBase:SPAC13C5.07	9606	GO_Central		P
+UniProtKB	P49959	MRE11	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61216|ensembl:ENSMUSP00000034405	9606	Ensembl		P
+UniProtKB	P49959	MRE11	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61216|ensembl:ENSMUSP00000034405	9606	Ensembl		P
+UniProtKB	P50748	KNTC1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000318	IBA	PMID:21873635	FB:FBgn0003268|PANTHER:PTN001038564|UniProtKB:P50748	9606	GO_Central		P
+UniProtKB	P50748	KNTC1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000314	IDA	PMID:11146660		9606	UniProt		P
+UniProtKB	P51959	CCNG1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P39950|ensembl:ENSRNOP00000063905	9606	Ensembl		P
+UniProtKB	P52926	HMGA2	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:16061642		9606	UniProt		P
+UniProtKB	P53350	PLK1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:18662541		9606	UniProt		P
+UniProtKB	P53350	PLK1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000315	IMP	PMID:23455478		9606	UniProt		P
+UniProtKB	P54132	BLM	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:11309417		9606	UniProt		P
+UniProtKB	P61254	RPL26	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61255|ensembl:ENSMUSP00000129072	9606	Ensembl		P
+UniProtKB	P61254	RPL26	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000315	IMP	PMID:16213212		9606	CAFA		P
+UniProtKB	P78527	PRKDC	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:21731742		9606	UniProt		P
+UniProtKB	P78560	CRADD	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000385749|UniProtKB:P78560	9606	GO_Central		P
+UniProtKB	P78560	CRADD	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000315	IMP	PMID:21726810		9606	UniProt	has_input(UniProtKB:P42575)|has_input(UniProtKB:Q00987)|has_participant(UniProtKB:Q9HB75)	P
+UniProtKB	P98177	FOXO4	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9WVH3|ensembl:ENSMUSP00000059420	9606	Ensembl		P
+UniProtKB	Q00987	MDM2	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000315	IMP	PMID:21726810		9606	UniProt		P
+UniProtKB	Q01831	XPC	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P51612|ensembl:ENSMUSP00000032182	9606	Ensembl		P
+UniProtKB	Q13123	IK	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000315	IMP	PMID:22351768		9606	UniProt		P
+UniProtKB	Q13257	MAD2L1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000318	IBA	PMID:21873635	CGD:CAL0000196404|FB:FBgn0035640|MGI:MGI:1860374|PANTHER:PTN000217420|PomBase:SPBC20F10.06|SGD:S000003567|TAIR:locus:2092125|UniProtKB:Q13257|WB:WBGene00003161	9606	GO_Central		P
+UniProtKB	Q13257	MAD2L1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z1B5|ensembl:ENSMUSP00000112304	9606	Ensembl		P
+UniProtKB	Q13257	MAD2L1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000314	IDA	PMID:18981471		9606	UniProt		P
+UniProtKB	Q13315	ATM	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000304	TAS	Reactome:R-HSA-69563		9606	Reactome		P
+UniProtKB	Q13315	ATM	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:15149599		9606	BHF-UCL		P
+UniProtKB	Q13315	ATM	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000315	IMP	PMID:11943150		9606	UniProt		P
+UniProtKB	Q13362-1	PPP2R5C	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000314	IDA	PMID:17245430		9606	UniProt		P
+UniProtKB	Q13415	ORC1	involved_in	GO:0033314	mitotic DNA replication checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000080055|PomBase:SPBC14C8.07c|PomBase:SPBC29A10.15	9606	GO_Central		P
+UniProtKB	Q13564	NAE1	involved_in	GO:0033314	mitotic DNA replication checkpoint signaling	ECO:0000314	IDA	PMID:10722740		9606	UniProt		P
+UniProtKB	Q13574-2	DGKZ	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000316	IGI	PMID:16286473	UniProtKB:P06400	9606	UniProt		P
+UniProtKB	Q14676	MDC1	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000304	TAS	PMID:17577209		9606	UniProt		P
+UniProtKB	Q15645	TRIP13	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000315	IMP	PMID:28553959		9606	UniProt		P
+UniProtKB	Q496M5	PLK5	involved_in	GO:0044819	mitotic G1/S transition checkpoint signaling	ECO:0000318	IBA	PMID:21873635	MGI:MGI:109604|PANTHER:PTN002804399	9606	GO_Central		P
+UniProtKB	Q53GT1	KLHL22	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000697604|UniProtKB:Q53GT1	9606	GO_Central		P
+UniProtKB	Q53GT1	KLHL22	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000315	IMP	PMID:23455478		9606	UniProt		P
+UniProtKB	Q53H47	SETMAR	involved_in	GO:0044774	mitotic DNA integrity checkpoint signaling	ECO:0000315	IMP	PMID:18790802		9606	UniProt		P
+UniProtKB	Q5XUX0	FBXO31	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19412162		9606	UniProt		P
+UniProtKB	Q5XUX0	FBXO31	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR026941	9606	InterPro		P
+UniProtKB	Q68E01	INTS3	involved_in	GO:0044818	mitotic G2/M transition checkpoint	ECO:0000315	IMP	PMID:19683501		9606	UniProt		P
+UniProtKB	Q6IQ49	SDE2	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:27906959		9606	UniProt		P
+UniProtKB	Q6NTE8	MRNIP	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001439267|UniProtKB:Q6NTE8	9606	GO_Central		P
+UniProtKB	Q6NTE8	MRNIP	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:27568553		9606	UniProt		P
+UniProtKB	Q6NUQ1	RINT1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:11096100		9606	BHF-UCL		P
+UniProtKB	Q6PCD5	RFWD3	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:20173098		9606	UniProt		P
+UniProtKB	Q6UWZ7	ABRAXAS1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17643121		9606	UniProt		P
+UniProtKB	Q6UWZ7	ABRAXAS1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17525340		9606	UniProt		P
+UniProtKB	Q6UWZ7	ABRAXAS1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	Q6WBX8	RAD9B	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1328356|PANTHER:PTN000391242|PomBase:SPAC664.07c|SGD:S000006115	9606	GO_Central		P
+UniProtKB	Q6Y7W6	GIGYF2	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6Y7W8|ensembl:ENSMUSP00000027475	9606	Ensembl		P
+UniProtKB	Q71UM5	RPS27L	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:18056458		9606	UniProt		P
+UniProtKB	Q7L7X3	TAOK1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17396146		9606	UniProt		P
+UniProtKB	Q7Z2Z1	TICRR	involved_in	GO:0033314	mitotic DNA replication checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001470787|ZFIN:ZDB-GENE-040728-1	9606	GO_Central		P
+UniProtKB	Q7Z2Z1	TICRR	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001470787|ZFIN:ZDB-GENE-040728-1	9606	GO_Central		P
+UniProtKB	Q7Z2Z1	TICRR	involved_in	GO:0033314	mitotic DNA replication checkpoint signaling	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q6DRL4	9606	UniProt		P
+UniProtKB	Q7Z2Z1	TICRR	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q6DRL4	9606	UniProt		P
+UniProtKB	Q7Z2Z1	TICRR	involved_in	GO:0033314	mitotic DNA replication checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR026153	9606	InterPro		P
+UniProtKB	Q8IWB6	TEX14	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1933227|PANTHER:PTN001128618	9606	GO_Central		P
+UniProtKB	Q8IWB6	TEX14	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q7M6U3	9606	UniProt		P
+UniProtKB	Q8IWB6	TEX14	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR039339	9606	InterPro		P
+UniProtKB	Q8IWB6	TEX14	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7M6U3|ensembl:ENSMUSP00000054444	9606	Ensembl		P
+UniProtKB	Q8NG66	NEK11	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000757812|UniProtKB:Q8NG66	9606	GO_Central		P
+UniProtKB	Q8NG66	NEK11	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:15161910		9606	UniProt		P
+UniProtKB	Q8NHY5	HUS1B	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000307391|PomBase:SPAC20G4.04c	9606	GO_Central		P
+UniProtKB	Q8NHY5	HUS1B	involved_in	GO:0033314	mitotic DNA replication checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000307391|PomBase:SPAC20G4.04c	9606	GO_Central		P
+UniProtKB	Q8TDC3	BRSK1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:15150265		9606	UniProt		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0033314	mitotic DNA replication checkpoint signaling	ECO:0000318	IBA	PMID:21873635	FB:FBgn0002878|PANTHER:PTN000339410|PomBase:SPAC23C4.18c	9606	GO_Central		P
+UniProtKB	Q92547	TOPBP1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000339410|PomBase:SPAC23C4.18c|SGD:S000003626	9606	GO_Central		P
+UniProtKB	Q969U7	PSMG2	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9EST4|ensembl:ENSMUSP00000025418	9606	Ensembl		P
+UniProtKB	Q96AH0	NABP1	involved_in	GO:0044818	mitotic G2/M transition checkpoint	ECO:0000315	IMP	PMID:19683501		9606	UniProt		P
+UniProtKB	Q96AY2	EME1	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001078409|PomBase:SPAPB1E7.06c	9606	GO_Central		P
+UniProtKB	Q96CF2	CHMP4C	involved_in	GO:0044878	mitotic cytokinesis checkpoint signaling	ECO:0000315	IMP	PMID:22422861		9606	UniProt		P
+UniProtKB	Q96CF2	CHMP4C	involved_in	GO:0044878	mitotic cytokinesis checkpoint signaling	ECO:0000315	IMP	PMID:24814515		9606	UniProt		P
+UniProtKB	Q96E09	PABIR1	involved_in	GO:0044818	mitotic G2/M transition checkpoint	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002503010|UniProtKB:Q96E09	9606	GO_Central		P
+UniProtKB	Q96E09	PABIR1	involved_in	GO:0044818	mitotic G2/M transition checkpoint	ECO:0000315	IMP	PMID:33108758		9606	UniProt		P
+UniProtKB	Q96EA4	SPDL1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR028593	9606	InterPro		P
+UniProtKB	Q96EP1	CHFR	involved_in	GO:0044818	mitotic G2/M transition checkpoint	ECO:0000315	IMP	PMID:19182791		9606	UniProt		P
+UniProtKB	Q96EP1	CHFR	involved_in	GO:0044818	mitotic G2/M transition checkpoint	ECO:0000315	IMP	PMID:18172500		9606	UniProt		P
+UniProtKB	Q96GD4	AURKB	involved_in	GO:0044878	mitotic cytokinesis checkpoint signaling	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q7YRC6	9606	UniProt		P
+UniProtKB	Q96GD4	AURKB	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR028772	9606	InterPro		P
+UniProtKB	Q96JB5	CDK5RAP3	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:15790566		9606	UniProt		P
+UniProtKB	Q96JB5	CDK5RAP3	involved_in	GO:0044818	mitotic G2/M transition checkpoint	ECO:0000315	IMP	PMID:19223857		9606	UniProt		P
+UniProtKB	Q96K21	ZFYVE19	involved_in	GO:0044878	mitotic cytokinesis checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002504326|UniProtKB:Q96K21	9606	GO_Central		P
+UniProtKB	Q96K21	ZFYVE19	involved_in	GO:0044878	mitotic cytokinesis checkpoint signaling	ECO:0000315	IMP	PMID:24814515		9606	UniProt		P
+UniProtKB	Q96NB3	ZNF830	involved_in	GO:0044773	mitotic DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1914233|PANTHER:PTN000328334	9606	GO_Central		P
+UniProtKB	Q96NB3	ZNF830	involved_in	GO:0033314	mitotic DNA replication checkpoint signaling	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1914233|PANTHER:PTN000328334	9606	GO_Central		P
+UniProtKB	Q96NB3	ZNF830	involved_in	GO:0033314	mitotic DNA replication checkpoint signaling	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q8R1N0	9606	UniProt		P
+UniProtKB	Q96NB3	ZNF830	involved_in	GO:0033314	mitotic DNA replication checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8R1N0|ensembl:ENSMUSP00000056154	9606	Ensembl		P
+UniProtKB	Q96NB3	ZNF830	involved_in	GO:0044773	mitotic DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8R1N0|ensembl:ENSMUSP00000056154	9606	Ensembl		P
+UniProtKB	Q96NY9	MUS81	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000335543|PomBase:SPCC4G3.05c	9606	GO_Central		P
+UniProtKB	Q96NZ9	PRAP1	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000315	IMP	PMID:23235459		9606	UniProt		P
+UniProtKB	Q96RL1	UIMC1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17525340		9606	UniProt		P
+UniProtKB	Q96RL1	UIMC1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17643121		9606	UniProt		P
+UniProtKB	Q96RL1	UIMC1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17525341		9606	UniProt		P
+UniProtKB	Q96RL1	UIMC1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17525342		9606	UniProt		P
+UniProtKB	Q96RL1	UIMC1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	Q99445	GML	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000304	TAS	PMID:8934543		9606	PINC		P
+UniProtKB	Q99638	RAD9A	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1328356|PANTHER:PTN000391242|PomBase:SPAC664.07c|SGD:S000006115	9606	GO_Central		P
+UniProtKB	Q99638	RAD9A	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z0F6|ensembl:ENSMUSP00000025740	9606	Ensembl		P
+UniProtKB	Q99741	CDC6	involved_in	GO:0033314	mitotic DNA replication checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000080055|PomBase:SPBC14C8.07c|PomBase:SPBC29A10.15	9606	GO_Central		P
+UniProtKB	Q9BQ15	NABP2	involved_in	GO:0044818	mitotic G2/M transition checkpoint	ECO:0000315	IMP	PMID:19683501		9606	UniProt		P
+UniProtKB	Q9BTA9	WAC	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:21329877		9606	UniProt		P
+UniProtKB	Q9BVW5	TIPIN	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17102137		9606	HGNC-UCL		P
+UniProtKB	Q9BXW9	FANCD2	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	FB:FBgn0038827|PANTHER:PTN000788426	9606	GO_Central		P
+UniProtKB	Q9BXX5	BUB1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015661	9606	InterPro		P
+UniProtKB	Q9BYT3	STK33	involved_in	GO:0044773	mitotic DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	FB:FBgn0019686|PANTHER:PTN002389571|UniProtKB:O96017	9606	GO_Central		P
+UniProtKB	Q9GZT1	PCBP4	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000314	IDA	PMID:10891498		9606	UniProt		P
+UniProtKB	Q9H0Z9-1	RBM38	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000314	IDA	PMID:17050675		9606	UniProt		P
+UniProtKB	Q9H2K8	TAOK3	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17396146		9606	UniProt		P
+UniProtKB	Q9H4B4	PLK3	involved_in	GO:0044819	mitotic G1/S transition checkpoint signaling	ECO:0000318	IBA	PMID:21873635	MGI:MGI:109604|PANTHER:PTN002804399	9606	GO_Central		P
+UniProtKB	Q9H4B4	PLK3	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000304	TAS	Reactome:R-HSA-6791312		9606	Reactome		P
+UniProtKB	Q9H4B4	PLK3	involved_in	GO:0044819	mitotic G1/S transition checkpoint signaling	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q60806	9606	UniProt		P
+UniProtKB	Q9H900	ZWILCH	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000318	IBA	PMID:21873635	FB:FBgn0061476|PANTHER:PTN001041858	9606	GO_Central		P
+UniProtKB	Q9H900	ZWILCH	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000315	IMP	PMID:15824131		9606	UniProt		P
+UniProtKB	Q9HAW4	CLSPN	involved_in	GO:0033314	mitotic DNA replication checkpoint signaling	ECO:0000318	IBA	PMID:21873635	FB:FBgn0052251|PANTHER:PTN001801959|PomBase:SPAC694.06c|UniProtKB:Q9HAW4	9606	GO_Central		P
+UniProtKB	Q9HAW4	CLSPN	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001801959|UniProtKB:Q9HAW4	9606	GO_Central		P
+UniProtKB	Q9HAW4	CLSPN	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:18662541		9606	UniProt		P
+UniProtKB	Q9HAW4	CLSPN	involved_in	GO:0033314	mitotic DNA replication checkpoint signaling	ECO:0000315	IMP	PMID:16885022		9606	UniProt		P
+UniProtKB	Q9HB75	PIDD1	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000315	IMP	PMID:21726810		9606	UniProt		P
+UniProtKB	Q9HCM9	TRIM39	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:23213251		9606	UniProt		P
+UniProtKB	Q9NSU2	TREX1	involved_in	GO:0031571	mitotic G1 DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q91XB0|ensembl:ENSMUSP00000050971	9606	Ensembl		P
+UniProtKB	Q9NWV8	BABAM1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001437420|UniProtKB:Q9NWV8	9606	GO_Central		P
+UniProtKB	Q9NWV8	BABAM1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	Q9NWV8	BABAM1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261749		9606	UniProt		P
+UniProtKB	Q9NWV8	BABAM1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261746		9606	UniProt		P
+UniProtKB	Q9NXR7	BABAM2	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:19261748		9606	UniProt		P
+UniProtKB	Q9NYP3	DONSON	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:28191891		9606	UniProt		P
+UniProtKB	Q9NYY3	PLK2	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000304	TAS	Reactome:R-HSA-6791312		9606	Reactome		P
+UniProtKB	Q9NYZ3	GTSE1	involved_in	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	ECO:0000303	NAS	PMID:10974554		9606	UniProt		P
+UniProtKB	Q9NZJ0	DTL	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17085480		9606	UniProt		P
+UniProtKB	Q9NZM5	NOP53	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:21741933		9606	UniProt		P
+UniProtKB	Q9UI95	MAD2L2	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000304	TAS	PMID:10366450		9606	PINC		P
+UniProtKB	Q9UL54	TAOK2	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000315	IMP	PMID:17396146		9606	UniProt		P
+UniProtKB	Q9UM11	FZR1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000314	IDA	PMID:18662541		9606	UniProt		P
+UniProtKB	Q9UN37	VPS4A	involved_in	GO:0044878	mitotic cytokinesis checkpoint signaling	ECO:0000315	IMP	PMID:24814515		9606	UniProt		P
+UniProtKB	Q9Y6D9	MAD1L1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000318	IBA	PMID:21873635	FB:FBgn0026326|PANTHER:PTN000570834|PomBase:SPBC3D6.04c|SGD:S000003054|UniProtKB:Q9Y6D9	9606	GO_Central		P
+UniProtKB	Q9Y6D9	MAD1L1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008672	9606	InterPro		P
+UniProtKB	Q9Y6D9	MAD1L1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000303	NAS	PMID:9546394		9606	UniProt		P
+UniProtKB	Q9Y6D9	MAD1L1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000314	IDA	PMID:18981471		9606	UniProt		P
+UniProtKB	V9PAU0	NBS1	involved_in	GO:0007095	mitotic G2 DNA damage checkpoint signaling	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040227	9606	InterPro		P
+UniProtKB	X5DRB1	XPC	involved_in	GO:0031573	mitotic intra-S DNA damage checkpoint signaling	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P51612|ensembl:ENSMUSP00000032182	9606	Ensembl		P
+ComplexPortal	CPX-3946	mcc_human	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0005547		PMID:11535616		9606	ComplexPortal		P
+ComplexPortal	CPX-4425	brca1-a_human	involved_in	GO:0044818	mitotic G2/M transition checkpoint	ECO:0005547		PMID:22369660		9606	ComplexPortal		P
+ComplexPortal	CPX-4441	brca1-c_human	involved_in	GO:0044818	mitotic G2/M transition checkpoint	ECO:0005547		PMID:22369660		9606	ComplexPortal		P
+ComplexPortal	CPX-482	inip-ints3-nabp2_human	involved_in	GO:0044818	mitotic G2/M transition checkpoint	ECO:0000314	IDA	PMID:19683501		9606	ComplexPortal		P
+ComplexPortal	CPX-550	ndc80_human-1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0005547		PMID:18455984		9606	ComplexPortal		P
+ComplexPortal	CPX-614	inip-ints3-nabp1_human	involved_in	GO:0044818	mitotic G2/M transition checkpoint	ECO:0000314	IDA	PMID:19683501		9606	ComplexPortal		P
+ComplexPortal	CPX-82	md1l1_human-1	involved_in	GO:0007094	mitotic spindle assembly checkpoint signaling	ECO:0000315	IMP	PMID:9546394		9606	ComplexPortal		P

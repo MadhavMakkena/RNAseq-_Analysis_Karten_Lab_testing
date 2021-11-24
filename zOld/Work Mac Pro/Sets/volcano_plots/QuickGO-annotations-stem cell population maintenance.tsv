@@ -1,0 +1,171 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	A0A024QYY4	BCL9	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9D219|ensembl:ENSMUSP00000046152	9606	Ensembl		P
+UniProtKB	A0A024R0H6	PAF1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8K2T8|ensembl:ENSMUSP00000003529	9606	Ensembl		P
+UniProtKB	A0A024R1K0	EIF4ENIF1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9EST3|ensembl:ENSMUSP00000136768	9606	Ensembl		P
+UniProtKB	A0A024R8B7	CRSP8	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DB40|ensembl:ENSMUSP00000028139	9606	Ensembl		P
+UniProtKB	A0A024R9N2	FANCC	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P50652|ensembl:ENSMUSP00000124406	9606	Ensembl		P
+UniProtKB	A0A024RAW0	SURB7	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQ39|ensembl:ENSMUSP00000032429	9606	Ensembl		P
+UniProtKB	A0A024RBQ4	TBX3	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70324|ensembl:ENSMUSP00000018748	9606	Ensembl		P
+UniProtKB	A0A024RC40	SS18	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q62280|ensembl:ENSMUSP00000046320	9606	Ensembl		P
+UniProtKB	A0A024RC42	CDH2	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P15116|ensembl:ENSMUSP00000025166	9606	Ensembl		P
+UniProtKB	A0A024RE06	LIG4	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BTF7|ensembl:ENSMUSP00000093130	9606	Ensembl		P
+UniProtKB	A0A0P1J1R0	seTCTP	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P63028|ensembl:ENSMUSP00000106519	9606	Ensembl		P
+UniProtKB	A0A0S2Z559	RAF1	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99N57|ensembl:ENSMUSP00000000451	9606	Ensembl		P
+UniProtKB	A0A0S2Z590	LSM1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8VC85|ensembl:ENSMUSP00000041022	9606	Ensembl		P
+UniProtKB	A0A2R8Y8E0	BRAF	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P28028|ensembl:ENSMUSP00000002487	9606	Ensembl		P
+UniProtKB	A0A384MR33	SMC1L1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CU62|ensembl:ENSMUSP00000044645	9606	Ensembl		P
+UniProtKB	A0A384P5C6	A0A384P5C6	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9606	Ensembl		P
+UniProtKB	A1LQR0	HESX1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61658|ensembl:ENSMUSP00000041999	9606	Ensembl		P
+UniProtKB	B6ZGT9	NR2E1	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q64104|ensembl:ENSMUSP00000019938	9606	Ensembl		P
+UniProtKB	O00512	BCL9	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9D219|ensembl:ENSMUSP00000046152	9606	Ensembl		P
+UniProtKB	O00548	DLL1	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q61483	9606	UniProt		P
+UniProtKB	O00548	DLL1	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9606	Ensembl		P
+UniProtKB	O00548	DLL1	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000270	IEP	PMID:19682396		9606	UniProt		P
+UniProtKB	O00755	WNT7A	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P24383|ensembl:ENSMUSP00000032180	9606	Ensembl		P
+UniProtKB	O14905	WNT9B	involved_in	GO:0072038	mesenchymal stem cell maintenance involved in nephron morphogenesis	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35468|ensembl:ENSMUSP00000018630	9606	Ensembl		P
+UniProtKB	O15116	LSM1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8VC85|ensembl:ENSMUSP00000041022	9606	Ensembl		P
+UniProtKB	O15119	TBX3	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70324|ensembl:ENSMUSP00000018748	9606	Ensembl		P
+UniProtKB	O15520	FGF10	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35565|ensembl:ENSMUSP00000022246	9606	Ensembl		P
+UniProtKB	O43474	KLF4	involved_in	GO:0019827	stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q60793	9606	UniProt		P
+UniProtKB	O43474	KLF4	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q60793|ensembl:ENSMUSP00000103245	9606	Ensembl		P
+UniProtKB	O43513	MED7	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CZB6|ensembl:ENSMUSP00000104855	9606	Ensembl		P
+UniProtKB	O43524	FOXO3	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9WVH4|ensembl:ENSMUSP00000101141	9606	Ensembl		P
+UniProtKB	O43679	LDB2	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O55203|ensembl:ENSMUSP00000067737	9606	Ensembl		P
+UniProtKB	O60244	MED14	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A2ABV5|ensembl:ENSMUSP00000094239	9606	Ensembl		P
+UniProtKB	O75084	FZD7	involved_in	GO:0019827	stem cell population maintenance	ECO:0000315	IMP	PMID:18681827		9606	BHF-UCL		P
+UniProtKB	O75197	LRP5	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q91VN0|ensembl:ENSMUSP00000025856	9606	Ensembl		P
+UniProtKB	O75586	MED6	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q921D4|ensembl:ENSMUSP00000125156	9606	Ensembl		P
+UniProtKB	O95718	ESRRB	involved_in	GO:0019827	stem cell population maintenance	ECO:0000314	IDA	PMID:25522312		9606	UniProt		P
+UniProtKB	O95936	EOMES	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O54839|ensembl:ENSMUSP00000035020	9606	Ensembl		P
+UniProtKB	P04049	RAF1	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99N57|ensembl:ENSMUSP00000000451	9606	Ensembl		P
+UniProtKB	P06730	EIF4E	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P63073|ensembl:ENSMUSP00000029803	9606	Ensembl		P
+UniProtKB	P08620	FGF4	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11403|ensembl:ENSMUSP00000056752	9606	Ensembl		P
+UniProtKB	P10721	KIT	involved_in	GO:0019827	stem cell population maintenance	ECO:0000304	TAS	PMID:21057534		9606	UniProt		P
+UniProtKB	P10721	KIT	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63116|ensembl:ENSRNOP00000003050	9606	Ensembl		P
+UniProtKB	P12755	SKI	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q60698	9606	BHF-UCL		P
+UniProtKB	P13693	TPT1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P63028|ensembl:ENSMUSP00000106519	9606	Ensembl		P
+UniProtKB	P15018	LIF	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P09056|ensembl:ENSMUSP00000067066	9606	Ensembl		P
+UniProtKB	P17947	SPI1	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17433|ensembl:ENSMUSP00000002180	9606	Ensembl		P
+UniProtKB	P19022	CDH2	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P15116	9606	UniProt		P
+UniProtKB	P19022	CDH2	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P15116|ensembl:ENSMUSP00000025166	9606	Ensembl		P
+UniProtKB	P23769	GATA2	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O09100|ensembl:ENSMUSP00000015197	9606	Ensembl		P
+UniProtKB	P26196	DDX6	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P54823|ensembl:ENSMUSP00000128421	9606	Ensembl		P
+UniProtKB	P35222	CTNNB1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000304	TAS	PMID:22723415		9606	BHF-UCL		P
+UniProtKB	P36894	BMPR1A	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36895|ensembl:ENSMUSP00000035900	9606	Ensembl		P
+UniProtKB	P40763	STAT3	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P42227|ensembl:ENSMUSP00000120152	9606	Ensembl		P
+UniProtKB	P46531	NOTCH1	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000270	IEP	PMID:19682396		9606	UniProt		P
+UniProtKB	P46937	YAP1	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P46938|ensembl:ENSMUSP00000069554	9606	Ensembl		P
+UniProtKB	P47974	ZFP36L2	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P23949	9606	UniProt		P
+UniProtKB	P47974	ZFP36L2	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P23949|ensembl:ENSMUSP00000050820	9606	Ensembl		P
+UniProtKB	P48431	SOX2	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P48432	9606	UniProt		P
+UniProtKB	P48431	SOX2	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000315	IMP	PMID:19736317		9606	BHF-UCL		P
+UniProtKB	P48431	SOX2	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000314	IDA	PMID:19409607		9606	UniProt		P
+UniProtKB	P48431	SOX2	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000315	IMP	PMID:18388306		9606	UniProt		P
+UniProtKB	P48436	SOX9	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q04887|ensembl:ENSMUSP00000000579	9606	Ensembl		P
+UniProtKB	P48436	SOX9	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q04887	9606	UniProt		P
+UniProtKB	P49917	LIG4	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BTF7|ensembl:ENSMUSP00000093130	9606	Ensembl		P
+UniProtKB	P49917	LIG4	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q8BTF7	9606	UniProt		P
+UniProtKB	P54821	PRRX1	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P63013|ensembl:ENSMUSP00000027878	9606	Ensembl		P
+UniProtKB	P60321	NANOS2	involved_in	GO:0030718	germ-line stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P60322	9606	UniProt		P
+UniProtKB	P60321	NANOS2	involved_in	GO:0030718	germ-line stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P60322|ensembl:ENSMUSP00000069765	9606	Ensembl		P
+UniProtKB	P78504	JAG1	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000270	IEP	PMID:19682396		9606	UniProt		P
+UniProtKB	Q00597	FANCC	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P50652|ensembl:ENSMUSP00000124406	9606	Ensembl		P
+UniProtKB	Q01860	POU5F1	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000314	IDA	PMID:19409607		9606	UniProt		P
+UniProtKB	Q01860	POU5F1	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000315	IMP	PMID:18388306		9606	UniProt		P
+UniProtKB	Q01860-1	POU5F1	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000315	IMP	PMID:19736317		9606	BHF-UCL		P
+UniProtKB	Q06330	RBPJ	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	9606	Ensembl		P
+UniProtKB	Q06945	SOX4	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q06831|ensembl:ENSMUSP00000100013	9606	Ensembl		P
+UniProtKB	Q12778	FOXO1	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9R1E0|ensembl:ENSMUSP00000055308	9606	Ensembl		P
+UniProtKB	Q12870	TCF15	involved_in	GO:0019827	stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q60756	9606	UniProt		P
+UniProtKB	Q12870	TCF15	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q60756|ensembl:ENSMUSP00000086511	9606	Ensembl		P
+UniProtKB	Q13118	KLF10	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O89091|ensembl:ENSMUSP00000073690	9606	Ensembl		P
+UniProtKB	Q13127	REST	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8VIG1|ensembl:ENSMUSP00000079231	9606	Ensembl		P
+UniProtKB	Q13127	REST	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8VIG1|ensembl:ENSMUSP00000079231	9606	Ensembl		P
+UniProtKB	Q13127	REST	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q8VIG1	9606	UniProt		P
+UniProtKB	Q13127	REST	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q8VIG1	9606	UniProt		P
+UniProtKB	Q13253	NOG	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000315	IMP	PMID:17889703		9606	BHF-UCL		P
+UniProtKB	Q13503	MED21	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQ39|ensembl:ENSMUSP00000032429	9606	Ensembl		P
+UniProtKB	Q13619	CUL4A	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q3TCH7|ensembl:ENSMUSP00000016680	9606	Ensembl		P
+UniProtKB	Q14469	HES1	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P35428|ensembl:ENSMUSP00000023171	9606	Ensembl		P
+UniProtKB	Q14469	HES1	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P35428|ensembl:ENSMUSP00000023171	9606	Ensembl		P
+UniProtKB	Q14469	HES1	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q04666|ensembl:ENSRNOP00000002346	9606	Ensembl		P
+UniProtKB	Q14469	HES1	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000270	IEP	PMID:19682396		9606	UniProt		P
+UniProtKB	Q14683	SMC1A	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CU62|ensembl:ENSMUSP00000044645	9606	Ensembl		P
+UniProtKB	Q15154	PCM1	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9R0L6|ensembl:ENSMUSP00000147887	9606	Ensembl		P
+UniProtKB	Q15532	SS18	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q62280|ensembl:ENSMUSP00000046320	9606	Ensembl		P
+UniProtKB	Q15906	VPS72	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q62481|ensembl:ENSMUSP00000009102	9606	Ensembl		P
+UniProtKB	Q5T6S3	PHF19	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CXG9|ensembl:ENSMUSP00000028232	9606	Ensembl		P
+UniProtKB	Q5TA89	HES5	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70120|ensembl:ENSMUSP00000051118	9606	Ensembl		P
+UniProtKB	Q5TA89	HES5	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03062|ensembl:ENSRNOP00000018769	9606	Ensembl		P
+UniProtKB	Q5TA89	HES5	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000270	IEP	PMID:19682396		9606	UniProt		P
+UniProtKB	Q5TAX3	TUT4	involved_in	GO:0019827	stem cell population maintenance	ECO:0000315	IMP	PMID:19703396		9606	UniProt		P
+UniProtKB	Q5UIP0	RIF1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6PR54|ensembl:ENSMUSP00000108313	9606	Ensembl		P
+UniProtKB	Q6IAZ5	CRSP9	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CZB6|ensembl:ENSMUSP00000104855	9606	Ensembl		P
+UniProtKB	Q6KC79	NIPBL	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6KCD5|ensembl:ENSMUSP00000059385	9606	Ensembl		P
+UniProtKB	Q6P1J9	CDC73	involved_in	GO:0019827	stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q8JZM7	9606	UniProt		P
+UniProtKB	Q6P1J9	CDC73	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8JZM7|ensembl:ENSMUSP00000018337	9606	Ensembl		P
+UniProtKB	Q6P2C8	MED27	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DB40|ensembl:ENSMUSP00000028139	9606	Ensembl		P
+UniProtKB	Q6P4F1	FUT10	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5F2L2|ensembl:ENSMUSP00000125265	9606	Ensembl		P
+UniProtKB	Q6PD62	CTR9	involved_in	GO:0019827	stem cell population maintenance	ECO:0000314	IDA	PMID:19345177		9606	UniProt		P
+UniProtKB	Q6PD62	CTR9	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q62018|ensembl:ENSMUSP00000005749	9606	Ensembl		P
+UniProtKB	Q86U44	METTL3	involved_in	GO:0019827	stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q8C3P7	9606	UniProt		P
+UniProtKB	Q86U70	LDB1	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70662|ensembl:ENSMUSP00000118546	9606	Ensembl		P
+UniProtKB	Q86VS8	HOOK3	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BUK6|ensembl:ENSMUSP00000046788	9606	Ensembl		P
+UniProtKB	Q8IY18	SMC5	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8CG46|ensembl:ENSMUSP00000084837	9606	Ensembl		P
+UniProtKB	Q8IYB7	DIS3L2	involved_in	GO:0019827	stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q8CI75	9606	UniProt		P
+UniProtKB	Q8IYB7	DIS3L2	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8CI75|ensembl:ENSMUSP00000132673	9606	Ensembl		P
+UniProtKB	Q8IZT6	ASPM	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8CJ27|ensembl:ENSMUSP00000059159	9606	Ensembl		P
+UniProtKB	Q8N474	SFRP1	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C4U3|ensembl:ENSMUSP00000033952	9606	Ensembl		P
+UniProtKB	Q8N5F7	NKAP	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9D0F4|ensembl:ENSMUSP00000016553	9606	Ensembl		P
+UniProtKB	Q8N7H5	PAF1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8K2T8|ensembl:ENSMUSP00000003529	9606	Ensembl		P
+UniProtKB	Q8NEM0	MCPH1	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7TT79|ensembl:ENSMUSP00000037000	9606	Ensembl		P
+UniProtKB	Q8NFU7	TET1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q3URK3	9606	UniProt		P
+UniProtKB	Q8TBK2	SETD6	involved_in	GO:0019827	stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q9CWY3	9606	UniProt		P
+UniProtKB	Q8TBK2	SETD6	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CWY3|ensembl:ENSMUSP00000034096	9606	Ensembl		P
+UniProtKB	Q8TC59	PIWIL2	involved_in	GO:0030718	germ-line stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q8CDG1	9606	UniProt		P
+UniProtKB	Q8TC59	PIWIL2	involved_in	GO:0030718	germ-line stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8CDG1|ensembl:ENSMUSP00000047385	9606	Ensembl		P
+UniProtKB	Q8WVC0	LEO1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000314	IDA	PMID:19345177		9606	UniProt		P
+UniProtKB	Q8WVC0	LEO1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJE5|ensembl:ENSMUSP00000046905	9606	Ensembl		P
+UniProtKB	Q92541	RTF1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000314	IDA	PMID:19345177		9606	UniProt		P
+UniProtKB	Q92541	RTF1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A2AQ19|ensembl:ENSMUSP00000028767	9606	Ensembl		P
+UniProtKB	Q92786	PROX1	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48437|ensembl:ENSMUSP00000135703	9606	Ensembl		P
+UniProtKB	Q92786	PROX1	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P48437	9606	BHF-UCL		P
+UniProtKB	Q93074	MED12	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A2AGH6|ensembl:ENSMUSP00000085260	9606	Ensembl		P
+UniProtKB	Q96HR3	MED30	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQI9|ensembl:ENSMUSP00000042204	9606	Ensembl		P
+UniProtKB	Q96RN5	MED15	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q924H2|ensembl:ENSMUSP00000012259	9606	Ensembl		P
+UniProtKB	Q96S42	NODAL	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P43021|ensembl:ENSMUSP00000039653	9606	Ensembl		P
+UniProtKB	Q99626	CDX2	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P43241|ensembl:ENSMUSP00000031650	9606	Ensembl		P
+UniProtKB	Q99929	ASCL2	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35885|ensembl:ENSMUSP00000009392	9606	Ensembl		P
+UniProtKB	Q9BRX2	PELO	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q80X73|ensembl:ENSMUSP00000104849	9606	Ensembl		P
+UniProtKB	Q9BVP2	GNL3	involved_in	GO:0019827	stem cell population maintenance	ECO:0000315	IMP	PMID:25522312		9606	UniProt		P
+UniProtKB	Q9BXP5	SRRT	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q99MR6	9606	UniProt		P
+UniProtKB	Q9BXP5	SRRT	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99MR6|ensembl:ENSMUSP00000043123	9606	Ensembl		P
+UniProtKB	Q9BXW9	FANCD2	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q80V62|ensembl:ENSMUSP00000045667	9606	Ensembl		P
+UniProtKB	Q9BZR9	TRIM8	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99PJ2|ensembl:ENSMUSP00000026008	9606	Ensembl		P
+UniProtKB	Q9GZV8	PRDM14	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E9Q3T6|ensembl:ENSMUSP00000044245	9606	Ensembl		P
+UniProtKB	Q9GZV8	PRDM14	involved_in	GO:0030718	germ-line stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E9Q3T6|ensembl:ENSMUSP00000044245	9606	Ensembl		P
+UniProtKB	Q9H204	MED28	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q920D3|ensembl:ENSMUSP00000115882	9606	Ensembl		P
+UniProtKB	Q9H3R0	KDM4C	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8VCD7|ensembl:ENSMUSP00000030102	9606	Ensembl		P
+UniProtKB	Q9H9S0	NANOG	involved_in	GO:0019827	stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q80Z64	9606	UniProt		P
+UniProtKB	Q9H9S0	NANOG	involved_in	GO:0019827	stem cell population maintenance	ECO:0000270	IEP	PMID:15108323		9606	BHF-UCL		P
+UniProtKB	Q9H9S0	NANOG	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000315	IMP	PMID:18388306		9606	UniProt		P
+UniProtKB	Q9H9Z2	LIN28A	involved_in	GO:0019827	stem cell population maintenance	ECO:0000315	IMP	PMID:19703396		9606	UniProt		P
+UniProtKB	Q9HCE5	METTL14	involved_in	GO:0019827	stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q3UIK4	9606	UniProt		P
+UniProtKB	Q9HCE5	METTL14	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q3UIK4|ensembl:ENSMUSP00000029759	9606	Ensembl		P
+UniProtKB	Q9NPC8	SIX2	involved_in	GO:0072038	mesenchymal stem cell maintenance involved in nephron morphogenesis	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q62232	9606	UniProt		P
+UniProtKB	Q9NPC8	SIX2	involved_in	GO:0072038	mesenchymal stem cell maintenance involved in nephron morphogenesis	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q62232|ensembl:ENSMUSP00000125871	9606	Ensembl		P
+UniProtKB	Q9NRA8	EIF4ENIF1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9EST3|ensembl:ENSMUSP00000136768	9606	Ensembl		P
+UniProtKB	Q9NW07	ZNF358	involved_in	GO:0019827	stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q923T4	9606	UniProt		P
+UniProtKB	Q9NZI8	IGF2BP1	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O88477|ensembl:ENSMUSP00000013559	9606	Ensembl		P
+UniProtKB	Q9UBX0	HESX1	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61658|ensembl:ENSMUSP00000041999	9606	Ensembl		P
+UniProtKB	Q9UJQ4	SALL4	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BX22|ensembl:ENSMUSP00000029061	9606	Ensembl		P
+UniProtKB	Q9UM07	PADI4	involved_in	GO:0019827	stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q9Z183	9606	UniProt		P
+UniProtKB	Q9UM07	PADI4	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z183|ensembl:ENSMUSP00000026381	9606	Ensembl		P
+UniProtKB	Q9UQE7	SMC3	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CW03|ensembl:ENSMUSP00000025930	9606	Ensembl		P
+UniProtKB	Q9Y466	NR2E1	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q64104|ensembl:ENSMUSP00000019938	9606	Ensembl		P
+UniProtKB	Q9Y483	MTF2	involved_in	GO:0019827	stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q02395	9606	UniProt		P
+UniProtKB	Q9Y483	MTF2	involved_in	GO:0019827	stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02395|ensembl:ENSMUSP00000080278	9606	Ensembl		P
+UniProtKB	Q9Y5R2	MMP24	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q9R0S2	9606	UniProt		P
+UniProtKB	Q9Y5R2	MMP24	involved_in	GO:0097150	neuronal stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9R0S2|ensembl:ENSMUSP00000029141	9606	Ensembl		P
+UniProtKB	Q9Y6X8	ZHX2	involved_in	GO:0035019	somatic stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C0C0|ensembl:ENSMUSP00000094164	9606	Ensembl		P
+UniProtKB	W0HK13	PIWIL2	involved_in	GO:0030718	germ-line stem cell population maintenance	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8CDG1|ensembl:ENSMUSP00000047385	9606	Ensembl		P

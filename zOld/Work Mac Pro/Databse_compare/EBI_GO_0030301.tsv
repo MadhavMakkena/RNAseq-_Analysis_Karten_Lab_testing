@@ -1,0 +1,268 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	A0A024R2B0	KIAA1468	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040362	9606	InterPro		P
+UniProtKB	A0A024R2C5	VPS4B	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P46467|ensembl:ENSMUSP00000092230	9606	Ensembl		P
+UniProtKB	A0A024R3E3	APOA1	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q00623|ensembl:ENSMUSP00000034588	9606	Ensembl		P
+UniProtKB	A0A024R3E3	APOA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q00623|ensembl:ENSMUSP00000034588	9606	Ensembl		P
+UniProtKB	A0A024R3V6	ARV1	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9D0U9|ensembl:ENSMUSP00000034463	9606	Ensembl		P
+UniProtKB	A0A024R5J8	LRRC54	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8CBR6|ensembl:ENSMUSP00000091713	9606	Ensembl		P
+UniProtKB	A0A024R6C0	NPC2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR033916	9606	InterPro		P
+UniProtKB	A0A024R6C0	NPC2	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z0J0|ensembl:ENSMUSP00000021668	9606	Ensembl		P
+UniProtKB	A0A024R6C0	NPC2	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z0J0|ensembl:ENSMUSP00000021668	9606	Ensembl		P
+UniProtKB	A0A024R6C0	NPC2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z0J0|ensembl:ENSMUSP00000021668	9606	Ensembl		P
+UniProtKB	A0A024R730	CFTR	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P26361|ensembl:ENSMUSP00000049228	9606	Ensembl		P
+UniProtKB	A0A024R7D5	LDLR	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P35951|ensembl:ENSMUSP00000034713	9606	Ensembl		P
+UniProtKB	A0A024R7D5	LDLR	involved_in	GO:0070508	cholesterol import	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P35951|ensembl:ENSMUSP00000034713	9606	Ensembl		P
+UniProtKB	A0A024R8J6	ABCA5	involved_in	GO:0030301	cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030367	9606	InterPro		P
+UniProtKB	A0A024RBS4	SCARB1	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61009|ensembl:ENSMUSP00000083242	9606	Ensembl		P
+UniProtKB	A0A024RBS4	SCARB1	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61009|ensembl:ENSMUSP00000083242	9606	Ensembl		P
+UniProtKB	A0A024RBS4	SCARB1	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61009|ensembl:ENSMUSP00000083242	9606	Ensembl		P
+UniProtKB	A0A024RBS4	SCARB1	involved_in	GO:0070508	cholesterol import	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61009|ensembl:ENSMUSP00000083242	9606	Ensembl		P
+UniProtKB	A0A075B768	RELCH	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040362	9606	InterPro		P
+UniProtKB	A0A075B778	ABCA5	involved_in	GO:0030301	cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030367	9606	InterPro		P
+UniProtKB	A0A075B785	RELCH	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040362	9606	InterPro		P
+UniProtKB	A0A0A0MQU7	HNF1A	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22361|ensembl:ENSMUSP00000031535	9606	Ensembl		P
+UniProtKB	A0A0S2Z3D5	APOE	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P08226|ensembl:ENSMUSP00000133302	9606	Ensembl		P
+UniProtKB	A0A0S2Z3F6	CETP	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR017130	9606	InterPro		P
+UniProtKB	A0A0S2Z3I8	CETP	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR017130	9606	InterPro		P
+UniProtKB	A0A2R8Y566	RELCH	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040362	9606	InterPro		P
+UniProtKB	A4D1B1	CD36	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q08857|ensembl:ENSMUSP00000133008	9606	Ensembl		P
+UniProtKB	A4D1B1	CD36	involved_in	GO:0030299	intestinal cholesterol absorption	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q08857|ensembl:ENSMUSP00000133008	9606	Ensembl		P
+UniProtKB	A4D1B1	CD36	involved_in	GO:0070508	cholesterol import	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q08857|ensembl:ENSMUSP00000133008	9606	Ensembl		P
+UniProtKB	A8K2P7	A8K2P7	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR042555	9606	InterPro		P
+UniProtKB	A8K6C1	A8K6C1	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR017130	9606	InterPro		P
+UniProtKB	A8K6C1	A8K6C1	involved_in	GO:0030301	cholesterol transport	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000736773	9606	UniProt		P
+UniProtKB	A8K7Y7	A8K7Y7	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR020064	9606	InterPro		P
+UniProtKB	A8K977	A8K977	involved_in	GO:0030301	cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030367	9606	InterPro		P
+UniProtKB	B0AZS2	STARD4	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR042555	9606	InterPro		P
+UniProtKB	B2R4S5	B2R4S5	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR033916	9606	InterPro		P
+UniProtKB	B2RD46	B2RD46	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040362	9606	InterPro		P
+UniProtKB	B4DMZ5	B4DMZ5	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR017130	9606	InterPro		P
+UniProtKB	B4DMZ5	B4DMZ5	involved_in	GO:0030301	cholesterol transport	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000736773	9606	UniProt		P
+UniProtKB	B4DPT7	B4DPT7	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR020064	9606	InterPro		P
+UniProtKB	B4DV10	B4DV10	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR033916	9606	InterPro		P
+UniProtKB	C9JKD9	ABCG1	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR020064	9606	InterPro		P
+UniProtKB	D6RDM5	STARD4	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR042555	9606	InterPro		P
+UniProtKB	D6REN7	STARD4	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR042555	9606	InterPro		P
+UniProtKB	E7EMS2	NPC2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR033916	9606	InterPro		P
+UniProtKB	E9PGV9	ABCG1	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR020064	9606	InterPro		P
+UniProtKB	G3V2V8	NPC2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR033916	9606	InterPro		P
+UniProtKB	G3V3D1	NPC2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR033916	9606	InterPro		P
+UniProtKB	G3V3E8	NPC2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR033916	9606	InterPro		P
+UniProtKB	H0YIZ1	NPC2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR033916	9606	InterPro		P
+UniProtKB	H3BRJ9	CETP	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR017130	9606	InterPro		P
+UniProtKB	H3BRJ9	CETP	involved_in	GO:0030301	cholesterol transport	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000736773	9606	UniProt		P
+UniProtKB	J3KMY5	NPC2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR033916	9606	InterPro		P
+UniProtKB	K7EJW6	ABCA5	involved_in	GO:0030301	cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030367	9606	InterPro		P
+UniProtKB	K7EKS9	ABCA5	involved_in	GO:0030301	cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030367	9606	InterPro		P
+UniProtKB	K7EMV2	ABCA5	involved_in	GO:0030301	cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030367	9606	InterPro		P
+UniProtKB	K7ENF9	ABCA5	involved_in	GO:0030301	cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030367	9606	InterPro		P
+UniProtKB	K7EPM3	ABCA5	involved_in	GO:0030301	cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030367	9606	InterPro		P
+UniProtKB	O15118	NPC1	involved_in	GO:0030301	cholesterol transport	ECO:0000314	IDA	PMID:18772377		9606	UniProt		P
+UniProtKB	O15118	NPC1	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000315	IMP	PMID:28784760		9606	UniProt		P
+UniProtKB	O15118	NPC1	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000315	IMP	PMID:27238017		9606	UniProt		P
+UniProtKB	O15118	NPC1	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000315	IMP	PMID:9211849		9606	UniProt		P
+UniProtKB	O15118	NPC1	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35604|ensembl:ENSMUSP00000025279	9606	Ensembl		P
+UniProtKB	O15118	NPC1	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:16141411		9606	BHF-UCL		P
+UniProtKB	O43576	white	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR020064	9606	InterPro		P
+UniProtKB	O43581	SYT7	involved_in	GO:0090119	vesicle-mediated cholesterol transport	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q9R0N7	9606	UniProt		P
+UniProtKB	O75351	VPS4B	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P46467|ensembl:ENSMUSP00000092230	9606	Ensembl		P
+UniProtKB	O75581	LRP6	involved_in	GO:0090118	receptor-mediated endocytosis involved in cholesterol transport	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1298218|PANTHER:PTN004684666	9606	GO_Central		P
+UniProtKB	O75612	O75612	involved_in	GO:0030299	intestinal cholesterol absorption	ECO:0000303	NAS	PMID:9774442		9606	UniProt		P
+UniProtKB	O75908	SOAT2	involved_in	GO:0033344	cholesterol efflux	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000045308|UniProtKB:O75908|UniProtKB:P35610	9606	GO_Central		P
+UniProtKB	O75908	SOAT2	involved_in	GO:0030299	intestinal cholesterol absorption	ECO:0000305	IC	PMID:14615411	GO:0005903	9606	BHF-UCL		P
+UniProtKB	O75908	SOAT2	involved_in	GO:0033344	cholesterol efflux	ECO:0000315	IMP	PMID:15308631		9606	BHF-UCL		P
+UniProtKB	O94911	ABCA8	involved_in	GO:0030301	cholesterol transport	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:O94911-3	9606	UniProt		P
+UniProtKB	O94911	ABCA8	involved_in	GO:0033344	cholesterol efflux	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:O94911-3	9606	UniProt		P
+UniProtKB	O94911-3	ABCA8	involved_in	GO:0030301	cholesterol transport	ECO:0000315	IMP	PMID:29300488		9606	UniProt		P
+UniProtKB	O94911-3	ABCA8	involved_in	GO:0033344	cholesterol efflux	ECO:0000315	IMP	PMID:29300488		9606	UniProt		P
+UniProtKB	O95445	APOM	involved_in	GO:0033344	cholesterol efflux	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1930124|PANTHER:PTN002842729|UniProtKB:O95445	9606	GO_Central		P
+UniProtKB	O95445	APOM	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z1R3|ensembl:ENSMUSP00000025249	9606	Ensembl		P
+UniProtKB	O95445	APOM	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z1R3|ensembl:ENSMUSP00000025249	9606	Ensembl		P
+UniProtKB	O95445	APOM	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:16682745		9606	BHF-UCL		P
+UniProtKB	O95445	APOM	involved_in	GO:0033344	cholesterol efflux	ECO:0000315	IMP	PMID:15793583		9606	BHF-UCL		P
+UniProtKB	O95445	APOM	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000250	ISS	PMID:15793583	UniProtKB:Q9Z1R3	9606	BHF-UCL		P
+UniProtKB	O95477	ABCA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:16702602		9606	ARUK-UCL		P
+UniProtKB	O95477	ABCA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000316	IGI	PMID:28373057	UniProtKB:P02647|UniProtKB:P02649	9606	ARUK-UCL	has_target_start_location(GO:0009898),has_target_end_location(GO:0009897)	P
+UniProtKB	O95477	ABCA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000315	IMP	PMID:19556522		9606	UniProt		P
+UniProtKB	O95477	ABCA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41233|ensembl:ENSMUSP00000030010	9606	Ensembl		P
+UniProtKB	O95477	ABCA1	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41233|ensembl:ENSMUSP00000030010	9606	Ensembl		P
+UniProtKB	O95477	ABCA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:11162594		9606	BHF-UCL		P
+UniProtKB	O95477	ABCA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:10431236		9606	BHF-UCL		P
+UniProtKB	O95477	ABCA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:23931754		9606	BHF-UCL	has_input(UniProtKB:P41233)	P
+UniProtKB	O95477	ABCA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000315	IMP	PMID:16443932		9606	BHF-UCL		P
+UniProtKB	O95477	ABCA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000315	IMP	PMID:25084135		9606	BHF-UCL	occurs_in(CL:0000517)	P
+UniProtKB	O95477	ABCA1	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000315	IMP	PMID:10431236		9606	BHF-UCL		P
+UniProtKB	O95477	ABCA1	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000315	IMP	PMID:10431236		9606	BHF-UCL		P
+UniProtKB	P01130	LDLR	involved_in	GO:0030301	cholesterol transport	ECO:0000304	TAS	PMID:20005821		9606	ARUK-UCL	has_start_location(UBERON:0000178),happens_during(GO:0008015)	P
+UniProtKB	P01130	LDLR	involved_in	GO:0030301	cholesterol transport	ECO:0000315	IMP	PMID:17142622		9606	HGNC-UCL		P
+UniProtKB	P01130	LDLR	involved_in	GO:0030299	intestinal cholesterol absorption	ECO:0000315	IMP	PMID:17142622		9606	HGNC-UCL		P
+UniProtKB	P01130	LDLR	involved_in	GO:0090118	receptor-mediated endocytosis involved in cholesterol transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002800105|UniProtKB:P01130|ZFIN:ZDB-GENE-031217-1	9606	GO_Central		P
+UniProtKB	P01130	LDLR	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P35951|ensembl:ENSMUSP00000034713	9606	Ensembl		P
+UniProtKB	P01130	LDLR	involved_in	GO:0070508	cholesterol import	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P35951|ensembl:ENSMUSP00000034713	9606	Ensembl		P
+UniProtKB	P01130	LDLR	involved_in	GO:0070508	cholesterol import	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P35951	9606	BHF-UCL		P
+UniProtKB	P01130	LDLR	involved_in	GO:0070508	cholesterol import	ECO:0000315	IMP	PMID:6299582		9606	BHF-UCL	part_of(GO:0042632)	P
+UniProtKB	P01130	LDLR	involved_in	GO:0090118	receptor-mediated endocytosis involved in cholesterol transport	ECO:0000315	IMP	PMID:6299582		9606	BHF-UCL	part_of(GO:0034383),part_of(GO:0070508),part_of(GO:0042632),part_of(GO:0071404),transports_or_maintains_localization_of(GO:0034362)	P
+UniProtKB	P02647	APOA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000318	IBA	PMID:21873635	MGI:MGI:88049|PANTHER:PTN002709027|UniProtKB:P02647|UniProtKB:P06727	9606	GO_Central		P
+UniProtKB	P02647	APOA1	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002709027|UniProtKB:P02647|UniProtKB:P06727	9606	GO_Central		P
+UniProtKB	P02647	APOA1	acts_upstream_of_or_within	GO:0030301	cholesterol transport	ECO:0000314	IDA	PMID:10559507		9606	MGI		P
+UniProtKB	P02647	APOA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000315	IMP	PMID:12202492		9606	AgBase	occurs_in(UBERON:0000201)	P
+UniProtKB	P02647	APOA1	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q00623|ensembl:ENSMUSP00000034588	9606	Ensembl		P
+UniProtKB	P02647	APOA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q00623|ensembl:ENSMUSP00000034588	9606	Ensembl		P
+UniProtKB	P02647	APOA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:15358760		9606	BHF-UCL		P
+UniProtKB	P02647	APOA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:11162594		9606	BHF-UCL		P
+UniProtKB	P02647	APOA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:14703508		9606	BHF-UCL		P
+UniProtKB	P02647	APOA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:16443932		9606	BHF-UCL		P
+UniProtKB	P02647	APOA1	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:21481393		9606	BHF-UCL	occurs_in(CL:0002476)	P
+UniProtKB	P02647	APOA1	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000315	IMP	PMID:15464323		9606	BHF-UCL		P
+UniProtKB	P02647	APOA1	involved_in	GO:0070508	cholesterol import	ECO:0000315	IMP	PMID:14718538		9606	BHF-UCL		P
+UniProtKB	P02649	APOE	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:23620513		9606	UniProt		P
+UniProtKB	P02649	APOE	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P08226|ensembl:ENSMUSP00000133302	9606	Ensembl		P
+UniProtKB	P02649	APOE	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:11162594		9606	BHF-UCL		P
+UniProtKB	P02649	APOE	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:16443932		9606	BHF-UCL		P
+UniProtKB	P02649	APOE	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000314	IDA	PMID:8127890		9606	BHF-UCL		P
+UniProtKB	P02652	APOA2	involved_in	GO:0030301	cholesterol transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000111938|RGD:2131|UniProtKB:P02652	9606	GO_Central		P
+UniProtKB	P02652	APOA2	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P04638|ensembl:ENSRNOP00000004662	9606	Ensembl		P
+UniProtKB	P02652	APOA2	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:11162594		9606	BHF-UCL		P
+UniProtKB	P02652	APOA2	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000314	IDA	PMID:14967812		9606	BHF-UCL		P
+UniProtKB	P02654	APOC1	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:11162594		9606	BHF-UCL		P
+UniProtKB	P02655	APOC2	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:11162594		9606	BHF-UCL		P
+UniProtKB	P02655	APOC2	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000305	IC	PMID:15778093	GO:0034384	9606	BHF-UCL		P
+UniProtKB	P02656	APOC3	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:11162594		9606	BHF-UCL		P
+UniProtKB	P02656	APOC3	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:16443932		9606	BHF-UCL		P
+UniProtKB	P02656	APOC3	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000305	IC	PMID:17438339	GO:0034375	9606	BHF-UCL		P
+UniProtKB	P04114	APOB	involved_in	GO:0030301	cholesterol transport	ECO:0000318	IBA	PMID:21873635	MGI:MGI:88052|PANTHER:PTN002673834|UniProtKB:P04114	9606	GO_Central		P
+UniProtKB	P04114	APOB	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E9Q414|ensembl:ENSMUSP00000036044	9606	Ensembl		P
+UniProtKB	P04114	APOB	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E9Q414|ensembl:ENSMUSP00000036044	9606	Ensembl		P
+UniProtKB	P04114	APOB	involved_in	GO:0030301	cholesterol transport	ECO:0000315	IMP	PMID:2563166		9606	BHF-UCL		P
+UniProtKB	P04180	LCAT	acts_upstream_of_or_within	GO:0030301	cholesterol transport	ECO:0000314	IDA	PMID:10559507		9606	MGI		P
+UniProtKB	P04180	LCAT	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000314	IDA	PMID:4335615		9606	BHF-UCL		P
+UniProtKB	P06727	APOA4	involved_in	GO:0033344	cholesterol efflux	ECO:0000318	IBA	PMID:21873635	MGI:MGI:88049|PANTHER:PTN002709027|UniProtKB:P02647|UniProtKB:P06727	9606	GO_Central		P
+UniProtKB	P06727	APOA4	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002709027|UniProtKB:P02647|UniProtKB:P06727	9606	GO_Central		P
+UniProtKB	P06727	APOA4	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:11162594		9606	BHF-UCL		P
+UniProtKB	P06727	APOA4	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:1935934		9606	BHF-UCL		P
+UniProtKB	P06727	APOA4	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000314	IDA	PMID:3095477		9606	BHF-UCL		P
+UniProtKB	P10909	CLU	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000304	TAS	PMID:16682745		9606	BHF-UCL		P
+UniProtKB	P11150	LIPC	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P27656|ensembl:ENSMUSP00000034731	9606	Ensembl		P
+UniProtKB	P11150	LIPC	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000305	IC	PMID:14531818	GO:0019433	9606	BHF-UCL		P
+UniProtKB	P11597	CETP	involved_in	GO:0030301	cholesterol transport	ECO:0000314	IDA	PMID:24293641		9606	UniProt		P
+UniProtKB	P11597	CETP	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR017130	9606	InterPro		P
+UniProtKB	P11597	CETP	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000305	IC	PMID:7583561	GO:0034375	9606	BHF-UCL		P
+UniProtKB	P13569	CFTR	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P26361|ensembl:ENSMUSP00000049228	9606	Ensembl		P
+UniProtKB	P16233	PNLIP	involved_in	GO:0030299	intestinal cholesterol absorption	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6P8U6|ensembl:ENSMUSP00000056377	9606	Ensembl		P
+UniProtKB	P16671	CD36	involved_in	GO:0030299	intestinal cholesterol absorption	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q08857	9606	UniProt		P
+UniProtKB	P16671	CD36	involved_in	GO:0070508	cholesterol import	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q08857	9606	UniProt		P
+UniProtKB	P16671	CD36	involved_in	GO:0070508	cholesterol import	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q08857|ensembl:ENSMUSP00000133008	9606	Ensembl		P
+UniProtKB	P16671	CD36	involved_in	GO:0030299	intestinal cholesterol absorption	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q08857|ensembl:ENSMUSP00000133008	9606	Ensembl		P
+UniProtKB	P16671	CD36	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q08857|ensembl:ENSMUSP00000133008	9606	Ensembl		P
+UniProtKB	P16671	CD36	involved_in	GO:0030301	cholesterol transport	ECO:0000250	ISS	PMID:12376530	UniProtKB:Q08857	9606	BHF-UCL		P
+UniProtKB	P19835	CEL	involved_in	GO:0030299	intestinal cholesterol absorption	ECO:0000303	NAS	PMID:12031288		9606	UniProt		P
+UniProtKB	P21757	MSR1	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P30204|ensembl:ENSMUSP00000026021	9606	Ensembl		P
+UniProtKB	P21757	MSR1	involved_in	GO:0030301	cholesterol transport	ECO:0000250	ISS	PMID:12376530	UniProtKB:P30204	9606	BHF-UCL		P
+UniProtKB	P22059	OSBP	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000315	IMP	PMID:29514919		9606	UniProt		P
+UniProtKB	P22307-2	SCP2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000315	IMP	PMID:7642518		9606	UniProt		P
+UniProtKB	P23141	CES1	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000315	IMP	PMID:18762277		9606	ARUK-UCL	occurs_in(CL:0000235)	P
+UniProtKB	P23141	CES1	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000315	IMP	PMID:18599737		9606	UniProt		P
+UniProtKB	P23141	CES1	involved_in	GO:0090122	cholesterol ester hydrolysis involved in cholesterol transport	ECO:0000304	TAS	PMID:11015575		9606	BHF-UCL		P
+UniProtKB	P35610	SOAT1	involved_in	GO:0033344	cholesterol efflux	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000045308|UniProtKB:O75908|UniProtKB:P35610	9606	GO_Central		P
+UniProtKB	P35610	SOAT1	involved_in	GO:0033344	cholesterol efflux	ECO:0000315	IMP	PMID:15308631		9606	BHF-UCL		P
+UniProtKB	P45844	ABCG1	involved_in	GO:0033344	cholesterol efflux	ECO:0000318	IBA	PMID:21873635	MGI:MGI:107704|PANTHER:PTN001059392|UniProtKB:P45844|UniProtKB:Q9H172	9606	GO_Central		P
+UniProtKB	P45844	ABCG1	involved_in	GO:0033344	cholesterol efflux	ECO:0000315	IMP	PMID:24576892		9606	UniProt		P
+UniProtKB	P45844	ABCG1	involved_in	GO:0033344	cholesterol efflux	ECO:0000315	IMP	PMID:16702602		9606	UniProt		P
+UniProtKB	P45844	ABCG1	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR020064	9606	InterPro		P
+UniProtKB	P45844	ABCG1	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q64343|ensembl:ENSMUSP00000024829	9606	Ensembl		P
+UniProtKB	P45844	ABCG1	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q64343|ensembl:ENSMUSP00000024829	9606	Ensembl		P
+UniProtKB	P45844	ABCG1	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q64343|ensembl:ENSMUSP00000024829	9606	Ensembl		P
+UniProtKB	P45844	ABCG1	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:15994327		9606	BHF-UCL		P
+UniProtKB	P45844	ABCG1	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000315	IMP	PMID:15994327		9606	BHF-UCL		P
+UniProtKB	P45844	ABCG1	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q64343	9606	BHF-UCL		P
+UniProtKB	P48426	PIP4K2A	involved_in	GO:0090119	vesicle-mediated cholesterol transport	ECO:0000315	IMP	PMID:29353240		9606	UniProt		P
+UniProtKB	P49675	STAR	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002925565|RGD:3770	9606	GO_Central		P
+UniProtKB	P61916	NPC2	involved_in	GO:0030301	cholesterol transport	ECO:0000314	IDA	PMID:17018531		9606	HGNC-UCL		P
+UniProtKB	P61916	NPC2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000314	IDA	PMID:17018531		9606	HGNC-UCL		P
+UniProtKB	P61916	NPC2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1915213|PANTHER:PTN002601680|UniProtKB:P61916|UniProtKB:P79345	9606	GO_Central		P
+UniProtKB	P61916	NPC2	involved_in	GO:0033344	cholesterol efflux	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1915213|PANTHER:PTN002601680|UniProtKB:P61916	9606	GO_Central		P
+UniProtKB	P61916	NPC2	involved_in	GO:0030301	cholesterol transport	ECO:0000314	IDA	PMID:18772377		9606	UniProt		P
+UniProtKB	P61916	NPC2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000314	IDA	PMID:18823126		9606	UniProt		P
+UniProtKB	P61916	NPC2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000315	IMP	PMID:27238017		9606	UniProt		P
+UniProtKB	P61916	NPC2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000315	IMP	PMID:15937921		9606	UniProt		P
+UniProtKB	P61916	NPC2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR033916	9606	InterPro		P
+UniProtKB	P61916	NPC2	acts_upstream_of_or_within	GO:0032367	intracellular cholesterol transport	ECO:0000316	IGI	PMID:19723497	UniProtKB:Q96E22	9606	MGI		P
+UniProtKB	P61916	NPC2	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z0J0|ensembl:ENSMUSP00000021668	9606	Ensembl		P
+UniProtKB	P61916	NPC2	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z0J0|ensembl:ENSMUSP00000021668	9606	Ensembl		P
+UniProtKB	P61916	NPC2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z0J0|ensembl:ENSMUSP00000021668	9606	Ensembl		P
+UniProtKB	P61916	NPC2	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:16141411		9606	BHF-UCL		P
+UniProtKB	Q03135	CAV1	involved_in	GO:0030301	cholesterol transport	ECO:0000304	TAS	PMID:11294831		9606	HGNC-UCL		P
+UniProtKB	Q04828	AKR1C1	involved_in	GO:0030299	intestinal cholesterol absorption	ECO:0000304	TAS	PMID:8486699		9606	UniProt		P
+UniProtKB	Q05C38	ABCA5	involved_in	GO:0030301	cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030367	9606	InterPro		P
+UniProtKB	Q14849	STARD3	involved_in	GO:0030301	cholesterol transport	ECO:0000314	IDA	PMID:28377464		9606	UniProt		P
+UniProtKB	Q53HV6	Q53HV6	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR033916	9606	InterPro		P
+UniProtKB	Q5SW96	LDLRAP1	involved_in	GO:0090118	receptor-mediated endocytosis involved in cholesterol transport	ECO:0000315	IMP	PMID:12464675		9606	BHF-UCL	transports_or_maintains_localization_of(GO:0034362),part_of(GO:0034383)	P
+UniProtKB	Q5SW96	LDLRAP1	involved_in	GO:0090118	receptor-mediated endocytosis involved in cholesterol transport	ECO:0000315	IMP	PMID:15166224		9606	BHF-UCL	transports_or_maintains_localization_of(GO:0034362),part_of(GO:0034383)	P
+UniProtKB	Q5SW96	LDLRAP1	involved_in	GO:0090118	receptor-mediated endocytosis involved in cholesterol transport	ECO:0000315	IMP	PMID:12417523		9606	BHF-UCL	transports_or_maintains_localization_of(GO:0034362),part_of(GO:0034383)	P
+UniProtKB	Q5SW96	LDLRAP1	involved_in	GO:0030301	cholesterol transport	ECO:0000303	NAS	PMID:12451172		9606	UniProt		P
+UniProtKB	Q5TGU0	TSPO2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CRZ8|ensembl:ENSMUSP00000024794	9606	Ensembl		P
+UniProtKB	Q5TGU0	TSPO2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:E2RDM9	9606	UniProt		P
+UniProtKB	Q5TZS4	Q5TZS4	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR017130	9606	InterPro		P
+UniProtKB	Q5TZS4	Q5TZS4	involved_in	GO:0030301	cholesterol transport	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000736773	9606	UniProt		P
+UniProtKB	Q6N017	ABCA5	involved_in	GO:0030301	cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030367	9606	InterPro		P
+UniProtKB	Q6Q788	APOA5	involved_in	GO:0033344	cholesterol efflux	ECO:0000318	IBA	PMID:21873635	MGI:MGI:88049|PANTHER:PTN002709027|UniProtKB:P02647|UniProtKB:P06727	9606	GO_Central		P
+UniProtKB	Q86T95	DKFZp451B0517	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR042555	9606	InterPro		P
+UniProtKB	Q86Y82	STX12	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:15469992		9606	BHF-UCL		P
+UniProtKB	Q8IZY2	ABCA7	involved_in	GO:0033344	cholesterol efflux	ECO:0000318	IBA	PMID:21873635	MGI:MGI:1351646|PANTHER:PTN002710138|UniProtKB:Q8IZY2	9606	GO_Central		P
+UniProtKB	Q8IZY2	ABCA7	involved_in	GO:0033344	cholesterol efflux	ECO:0000314	IDA	PMID:14570867		9606	Alzheimers_University_of_Toronto		P
+UniProtKB	Q8NHX9	TPCN2	involved_in	GO:0090117	endosome to lysosome transport of low-density lipoprotein particle	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q8BWC0	9606	UniProt		P
+UniProtKB	Q8WTV0	SCARB1	involved_in	GO:0033344	cholesterol efflux	ECO:0000318	IBA	PMID:21873635	MGI:MGI:893578|PANTHER:PTN002629874|UniProtKB:Q8WTV0	9606	GO_Central		P
+UniProtKB	Q8WTV0	SCARB1	involved_in	GO:0070508	cholesterol import	ECO:0000318	IBA	PMID:21873635	MGI:MGI:893578|PANTHER:PTN002629874|UniProtKB:Q8WTV0	9606	GO_Central		P
+UniProtKB	Q8WTV0	SCARB1	involved_in	GO:0070508	cholesterol import	ECO:0000315	IMP	PMID:26965621		9606	UniProt		P
+UniProtKB	Q8WTV0	SCARB1	involved_in	GO:0033344	cholesterol efflux	ECO:0000315	IMP	PMID:12202492		9606	AgBase	occurs_in(UBERON:0000201)	P
+UniProtKB	Q8WTV0	SCARB1	involved_in	GO:0070508	cholesterol import	ECO:0000315	IMP	PMID:11208913		9606	AgBase	occurs_in(UBERON:0013694)	P
+UniProtKB	Q8WTV0	SCARB1	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61009|ensembl:ENSMUSP00000083242	9606	Ensembl		P
+UniProtKB	Q8WTV0	SCARB1	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61009|ensembl:ENSMUSP00000083242	9606	Ensembl		P
+UniProtKB	Q8WTV0	SCARB1	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61009|ensembl:ENSMUSP00000083242	9606	Ensembl		P
+UniProtKB	Q8WTV0	SCARB1	involved_in	GO:0070508	cholesterol import	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61009|ensembl:ENSMUSP00000083242	9606	Ensembl		P
+UniProtKB	Q8WTV0	SCARB1	involved_in	GO:0033344	cholesterol efflux	ECO:0000250	ISS	PMID:14718538	UniProtKB:Q61009	9606	BHF-UCL		P
+UniProtKB	Q8WTV0	SCARB1	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000270	IEP	PMID:9211901		9606	BHF-UCL		P
+UniProtKB	Q8WTV0	SCARB1	involved_in	GO:0070508	cholesterol import	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q61009	9606	BHF-UCL		P
+UniProtKB	Q8WTV0	SCARB1	involved_in	GO:0070508	cholesterol import	ECO:0000250	ISS	PMID:14718538	UniProtKB:Q61009	9606	BHF-UCL		P
+UniProtKB	Q8WUA8	TSKU	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8CBR6|ensembl:ENSMUSP00000091713	9606	Ensembl		P
+UniProtKB	Q8WUA8	TSKU	involved_in	GO:0033344	cholesterol efflux	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q8CBR6	9606	UniProt		P
+UniProtKB	Q8WWZ7	ABCA5	involved_in	GO:0030301	cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030367	9606	InterPro		P
+UniProtKB	Q8WWZ7	ABCA5	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8K448|ensembl:ENSMUSP00000047927	9606	Ensembl		P
+UniProtKB	Q8WWZ7	ABCA5	involved_in	GO:0033344	cholesterol efflux	ECO:0000250	ISS	PMID:20382126	UniProtKB:Q8K448	9606	BHF-UCL		P
+UniProtKB	Q8WWZ7	ABCA5	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000305	IC	PMID:20382126	GO:0034375	9606	BHF-UCL		P
+UniProtKB	Q96DR4	STARD4	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002931313|UniProtKB:Q96DR4	9606	GO_Central		P
+UniProtKB	Q96DR4	STARD4	involved_in	GO:0010879	cholesterol transport involved in cholesterol storage	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002931313|UniProtKB:Q96DR4	9606	GO_Central		P
+UniProtKB	Q96DR4	STARD4	involved_in	GO:0070508	cholesterol import	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN002931313|UniProtKB:Q96DR4	9606	GO_Central		P
+UniProtKB	Q96DR4	STARD4	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR042555	9606	InterPro		P
+UniProtKB	Q96DR4	STARD4	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000314	IDA	PMID:18403318		9606	BHF-UCL		P
+UniProtKB	Q96DR4	STARD4	involved_in	GO:0010879	cholesterol transport involved in cholesterol storage	ECO:0000314	IDA	PMID:18403318		9606	BHF-UCL		P
+UniProtKB	Q96DR4	STARD4	involved_in	GO:0070508	cholesterol import	ECO:0000314	IDA	PMID:18403318		9606	BHF-UCL		P
+UniProtKB	Q96ES0	KIAA1468	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040362	9606	InterPro		P
+UniProtKB	Q96JX3	SERAC1	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000315	IMP	PMID:22683713		9606	UniProt		P
+UniProtKB	Q9H0X9	OSBPL5	involved_in	GO:0030301	cholesterol transport	ECO:0000303	NAS	PMID:10588946		9606	UniProt		P
+UniProtKB	Q9H172	ABCG4	involved_in	GO:0033344	cholesterol efflux	ECO:0000318	IBA	PMID:21873635	MGI:MGI:107704|PANTHER:PTN001059392|UniProtKB:P45844|UniProtKB:Q9H172	9606	GO_Central		P
+UniProtKB	Q9H172	ABCG4	involved_in	GO:0033344	cholesterol efflux	ECO:0000315	IMP	PMID:33141061		9606	UniProt		P
+UniProtKB	Q9H172	ABCG4	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q91WA9|ensembl:ENSMUSP00000124647	9606	Ensembl		P
+UniProtKB	Q9H172	ABCG4	involved_in	GO:0033344	cholesterol efflux	ECO:0000304	TAS	PMID:16682745		9606	BHF-UCL		P
+UniProtKB	Q9H1P3	OSBPL2	involved_in	GO:0030301	cholesterol transport	ECO:0000315	IMP	PMID:30581148		9606	ARUK-UCL	has_end_location(GO:0005886)	P
+UniProtKB	Q9H1P3	OSBPL2	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000315	IMP	PMID:30581148		9606	UniProt		P
+UniProtKB	Q9H221	ABCG8	involved_in	GO:0033344	cholesterol efflux	ECO:0000315	IMP	PMID:27144356	UniProtKB:Q9H222	9606	UniProt		P
+UniProtKB	Q9H221	ABCG8	involved_in	GO:0033344	cholesterol efflux	ECO:0000315	IMP	PMID:27144356		9606	UniProt		P
+UniProtKB	Q9H221	ABCG8	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBM0|ensembl:ENSMUSP00000035246	9606	Ensembl		P
+UniProtKB	Q9H221	ABCG8	involved_in	GO:0030299	intestinal cholesterol absorption	ECO:0000305	IC	PMID:12208868	GO:0120020	9606	BHF-UCL		P
+UniProtKB	Q9H221	ABCG8	involved_in	GO:0033344	cholesterol efflux	ECO:0000316	IGI	PMID:14504269	UniProtKB:Q9DBM0	9606	BHF-UCL		P
+UniProtKB	Q9H222	ABCG5	involved_in	GO:0033344	cholesterol efflux	ECO:0000315	IMP	PMID:27144356		9606	UniProt		P
+UniProtKB	Q9H222	ABCG5	involved_in	GO:0033344	cholesterol efflux	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99PE8|ensembl:ENSMUSP00000069495	9606	Ensembl		P
+UniProtKB	Q9H222	ABCG5	involved_in	GO:0030299	intestinal cholesterol absorption	ECO:0000305	IC	PMID:12208868	GO:0120020	9606	BHF-UCL		P
+UniProtKB	Q9H222	ABCG5	involved_in	GO:0033344	cholesterol efflux	ECO:0000316	IGI	PMID:14504269	UniProtKB:Q99PE8	9606	BHF-UCL		P
+UniProtKB	Q9H2C2	ARV1	involved_in	GO:0030301	cholesterol transport	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9D0U9|ensembl:ENSMUSP00000034463	9606	Ensembl		P
+UniProtKB	Q9NSY2	STARD5	involved_in	GO:0070508	cholesterol import	ECO:0000314	IDA	PMID:18403318		9606	BHF-UCL		P
+UniProtKB	Q9NVJ2	ARL8B	involved_in	GO:0090117	endosome to lysosome transport of low-density lipoprotein particle	ECO:0000315	IMP	PMID:21802320		9606	UniProt		P
+UniProtKB	Q9P260	RELCH	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000314	IDA	PMID:29514919		9606	UniProt		P
+UniProtKB	Q9P260	RELCH	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040362	9606	InterPro		P
+UniProtKB	Q9UHB6	LIMA1	involved_in	GO:0030299	intestinal cholesterol absorption	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q9ERG0	9606	UniProt		P
+UniProtKB	Q9UHB6	LIMA1	involved_in	GO:0030299	intestinal cholesterol absorption	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9ERG0|ensembl:ENSMUSP00000073371	9606	Ensembl		P
+UniProtKB	Q9UHC9	NPC1L1	involved_in	GO:0030301	cholesterol transport	ECO:0000315	IMP	PMID:17140581		9606	HGNC-UCL		P
+UniProtKB	Q9UHC9	NPC1L1	involved_in	GO:0030299	intestinal cholesterol absorption	ECO:0000315	IMP	PMID:17140581		9606	HGNC-UCL		P
+UniProtKB	Q9UN37	VPS4A	involved_in	GO:0032367	intracellular cholesterol transport	ECO:0000315	IMP	PMID:10637304		9606	UniProt		P
+UniProtKB	Q9Y5X9	LIPG	involved_in	GO:0043691	reverse cholesterol transport	ECO:0000315	IMP	PMID:19136670		9606	BHF-UCL		P
